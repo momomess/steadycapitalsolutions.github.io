@@ -1,0 +1,2040 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" href="./img/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/home.css" />
+    <style>
+      @font-face {
+        font-family: "SegoeUI-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c584d745e9ae3000a003018/segoeuib.ttf") format("truetype");
+      }
+
+      @font-face {
+        font-family: "SegoeUI-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c4fb9717d3628000b06e02f/segoe-ui.ttf") format("truetype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0">
+    <input type="hidden" id="anPageName" name="page" value="home" />
+    <div class="container-center-horizontal">
+      <div
+        class="home auto-animated screen"
+        data-page="home"
+        data-screens="home,application,business-funding,who-we-are"
+      >
+        <div
+          class="rectangle-103-C61RwL"
+          onclick="Lib.autoanim_redirect('application,home%23home,,,;business-funding,home%23home,,,;who-we-are,home%23home,,,', event)"
+        ></div>
+        <div class="no-path-copy-5-C61RwL"></div>
+        <div class="do-you-nee-r-business-C61RwL">
+          <span class="span0-M6fMpO">Do you need</span><span class="span1-M6fMpO"> funding for your busines</span>
+        </div>
+        <div class="find-out-h-ualify-for-C61RwL">Find out how much you qualify for!</div>
+        <div class="group-29-C61RwL">
+          <div class="no-path-copy-5-sUxRyR"></div>
+          <div class="rectangle-9-sUxRyR"></div>
+          <div class="rectangle-8-sUxRyR"></div>
+        </div>
+        <div class="path-2-C61RwL"></div>
+        <div class="no-path-copy-6-C61RwL"></div>
+        <div class="ellipse-4-C61RwL"></div>
+        <div class="no-path-C61RwL"></div>
+        <div class="no-path-copy-7-C61RwL"></div>
+        <div class="rectangle-15-C61RwL"></div>
+        <div class="rectangle-18-C61RwL"></div>
+        <div class="rectangle-21-C61RwL"></div>
+        <div class="easy-C61RwL">EASY</div>
+        <div class="fast-C61RwL">FAST</div>
+        <div class="reliable-C61RwL">RELIABLE</div>
+        <div class="x1-page-app-statements-C61RwL">1 Page Application<br />3-6 months of bank statements.</div>
+        <div class="funding-ar-6-36-hours-C61RwL">Funding arrives<br />within 6-36 hours.</div>
+        <div class="our-team-w-s-it-takes-C61RwL">Our team will work <br />with you as long as it takes.</div>
+        <div class="rectangle-22-C61RwL"></div>
+        <div class="mask-group-2-C61RwL">
+          <div class="x1828640-xwQzQP">
+            <div class="path-6-iHx6oA"></div>
+            <div class="path-7-iHx6oA"></div>
+          </div>
+        </div>
+        <div class="mask-group-10-C61RwL">
+          <div class="x1828640-PpBzwo">
+            <div class="path-22-ps7Py9"></div>
+            <div class="path-23-ps7Py9"></div>
+          </div>
+        </div>
+        <div class="mask-group-8-C61RwL">
+          <div class="x1828640-9IHP4N">
+            <div class="path-18-NhxVnA"></div>
+            <div class="path-19-NhxVnA"></div>
+          </div>
+        </div>
+        <div class="mask-group-11-C61RwL">
+          <div class="x1828640-L7YpCZ">
+            <div class="path-24-v8Z9Sc"></div>
+            <div class="path-25-v8Z9Sc"></div>
+          </div>
+        </div>
+        <div class="mask-group-9-C61RwL">
+          <div class="x1828640-9krrgc">
+            <div class="path-20-5Ph6wq"></div>
+            <div class="path-21-5Ph6wq"></div>
+          </div>
+        </div>
+        <div class="mask-group-12-C61RwL">
+          <div class="x1828640-hzAbqh">
+            <div class="path-26-jYeEbu"></div>
+            <div class="path-27-jYeEbu"></div>
+          </div>
+        </div>
+        <div class="rectangle-39-C61RwL"></div>
+        <div class="rectangle-55-C61RwL"></div>
+        <div class="rectangle-59-C61RwL"></div>
+        <div class="rectangle-62-C61RwL"></div>
+        <div class="rectangle-64-C61RwL"></div>
+        <div class="rectangle-67-C61RwL"></div>
+        <div class="free-to-apply-C61RwL">Free to Apply</div>
+        <div class="x5000-2000000-C61RwL">$5,000 - $2,000,000</div>
+        <div class="upon-renew-onal-funds-C61RwL">Upon renewal you&#39;ll receive additional funds</div>
+        <div class="dedicated-advisor-C61RwL">Dedicated Advisor</div>
+        <div class="flexible-c-tive-terms-C61RwL">Flexible, Competitive Terms</div>
+        <div class="no-payment-idden-fees-C61RwL">No Payment Penalties or Hidden Fees</div>
+        <div class="with-our-f-ness-needs-C61RwL">
+          With our flexible terms, you choose the amount your business needs.
+        </div>
+        <div class="terms-that-nk-account-C61RwL">
+          Terms that fit your business needs. Payments can be debited daily or weekly, <br />directly out of your
+          business bank account.
+        </div>
+        <div class="interest-i-ransparent-C61RwL">
+          Interest is only paid while the funding&nbsp;&nbsp;is not fully paid off. <br />All terms are 100%
+          transparent!
+        </div>
+        <div class="one-of-our-of-the-way-C61RwL">
+          One of our experienced advisors will guide you through the funding process,<br />every step of the way.
+        </div>
+        <div class="once-your--onal-funds-C61RwL">
+          Once your funding is over 40% paid down, you are able to renew and take out<br />additional funds.
+        </div>
+        <div class="group-28-C61RwL">
+          <div class="path-3-NRAddl"></div>
+          <div class="rectangle-70-NRAddl"></div>
+          <div class="rectangle-71-NRAddl"></div>
+          <div class="about-NRAddl">About</div>
+          <div class="contact-information-NRAddl">Contact Information</div>
+          <div class="no-path-copy-9-NRAddl"></div>
+          <div class="no-path-copy-11-NRAddl"></div>
+          <div class="group-10-NRAddl">
+            <div class="rectangle-23-hj6O4m"></div>
+            <div class="x-steady-ca--solutions-hj6O4m">© Steady Capital Solutions</div>
+            <div class="group-25-hj6O4m">
+              <div
+                class="madeb-media-wide-FqqTbT"
+                onclick="Lib.autoanim_redirect('%2A,https%3A//www.madebmedia.com/,,,', event)"
+              ></div>
+              <div class="x-madeb-med-s-reserved-FqqTbT">®MadebMedia, All rights reserved</div>
+            </div>
+          </div>
+          <div class="x7185047439-NRAddl" onclick="Lib.autoanim_redirect('%2A,tel%3A718-504-7439,,,', event)">
+            718.504.7439
+          </div>
+          <div
+            class="processing-lutionscom-NRAddl"
+            onclick="Lib.autoanim_redirect('%2A,mailto%3Aprocessing%40steadycapitalsolutions.com,_blank,,', event)"
+          >
+            processing@steadycapitalsolutions.com
+          </div>
+          <div class="were-here--and-how-we-NRAddl">
+            We&#39;re here to help your company expand. Our team consists of professionals<br />who will understand your
+            goals and show you the best financial options to<br />achieve them. To us, you aren&#39;t a customer,
+            you&#39;re a partner. We&#39;re here to learn<br />your business and how we can best help you and your
+            enterprise.<br />
+          </div>
+          <div class="rectangle-72-NRAddl"></div>
+        </div>
+        <div class="group-30-C61RwL">
+          <div class="do-you-nee-r-business-xxkKyh">
+            <span class="span0-xbfzBc">Do you need</span
+            ><span class="span1-xbfzBc"> funding<br />for your busines</span>
+          </div>
+          <div class="find-out-h-ualify-for-xxkKyh">Find out how much<br />you qualify for!</div>
+          <div
+            class="component-6-1-xxkKyh smart-layers-pointers"
+            onclick="Lib.autoanim_redirect('%2A,home%23application,,ease-out,300', event)"
+          >
+            <div class="path-1-ynehWx"></div>
+            <div class="apply-now-ynehWx">Apply Now</div>
+          </div>
+          <div
+            class="component-7-1-xxkKyh smart-layers-pointers"
+            onclick="Lib.autoanim_redirect('%2A,home%23business-funding,,ease-out,300', event)"
+          >
+            <div class="rectangle-11-C7Jtsq"></div>
+            <div class="learn-more-C7Jtsq">Learn More</div>
+          </div>
+        </div>
+        <div class="group-9-C61RwL">
+          <div class="group-4-9dtg3L">
+            <div class="group-1-4xJ0oe">
+              <div class="polygon-1-z9FusB"></div>
+              <div class="polygon-2-z9FusB"></div>
+              <div class="rectangle-1-z9FusB"></div>
+              <div class="rectangle-2-z9FusB"></div>
+              <div class="scs-logo-z9FusB"></div>
+              <div class="scs-logo-c1vqck"></div>
+            </div>
+            <div class="group-3-4xJ0oe">
+              <div class="group-2-eQV7T3">
+                <div class="rectangle-3-hN2mHr"></div>
+                <div class="home-hN2mHr">Home</div>
+                <div
+                  class="component-4-1-hN2mHr smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23business-funding,,,', event)"
+                >
+                  <div class="rectangle-4-FMsOJD"></div>
+                  <div class="business-funds-FMsOJD">Business Funds</div>
+                </div>
+                <div class="component-2-1-hN2mHr">
+                  <div class="rectangle-5-JOOD7V"></div>
+                  <div class="about-JOOD7V">About</div>
+                </div>
+                <div
+                  class="component-2-2-hN2mHr smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23who-we-are,,,', event)"
+                >
+                  <div class="rectangle-5-qAsEw8"></div>
+                  <div class="about-qAsEw8">About</div>
+                </div>
+                <div
+                  class="component-3-1-hN2mHr smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23application,,,', event)"
+                >
+                  <div class="rectangle-6-3LR8oT"></div>
+                  <div class="apply-now-3LR8oT">Apply Now</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rectangle-83-C61RwL"></div>
+        <div class="group-26-C61RwL">
+          <div class="path-3-aRbOOb"></div>
+          <div class="rectangle-70-aRbOOb"></div>
+          <div class="rectangle-71-aRbOOb"></div>
+          <div class="about-aRbOOb">About</div>
+          <div class="contact-information-aRbOOb">Contact Information</div>
+          <div class="no-path-copy-9-aRbOOb"></div>
+          <div class="no-path-copy-11-aRbOOb"></div>
+          <div class="group-10-aRbOOb">
+            <div class="rectangle-23-PmszAj"></div>
+            <div class="x-steady-ca--solutions-PmszAj">© Steady Capital Solutions</div>
+            <div class="group-25-PmszAj">
+              <div
+                class="madeb-media-wide-lT6iDl"
+                onclick="Lib.autoanim_redirect('%2A,https%3A//www.madebmedia.com/,,,', event)"
+              ></div>
+              <div class="x-madeb-med-s-reserved-lT6iDl">®MadebMedia, All rights reserved</div>
+            </div>
+          </div>
+          <div class="x7185047439-aRbOOb" onclick="Lib.autoanim_redirect('%2A,tel%3A718-504-7439,,,', event)">
+            718.504.7439
+          </div>
+          <div
+            class="processing-lutionscom-aRbOOb"
+            onclick="Lib.autoanim_redirect('%2A,mailto%3Aprocessing%40steadycapitalsolutions.com,_blank,,', event)"
+          >
+            processing@steadycapitalsolutions.com
+          </div>
+          <div class="were-here--and-how-we-aRbOOb">
+            We&#39;re here to help your company expand. Our team consists of professionals<br />who will understand your
+            goals and show you the best financial options to<br />achieve them. To us, you aren&#39;t a customer,
+            you&#39;re a partner. We&#39;re here to learn<br />your business and how we can best help you and your
+            enterprise.<br />
+          </div>
+          <div class="rectangle-72-aRbOOb"></div>
+          <div class="rectangle-92-aRbOOb"></div>
+          <div class="contact-information-Pxx2HD">Contact Information</div>
+          <div class="no-path-copy-9-Pxx2HD"></div>
+          <div class="no-path-copy-11-Pxx2HD"></div>
+          <div class="x7185047439-Pxx2HD" onclick="Lib.autoanim_redirect('%2A,tel%3A718-504-7439,,,', event)">
+            718.504.7439
+          </div>
+          <div
+            class="processing-lutionscom-Pxx2HD"
+            onclick="Lib.autoanim_redirect('%2A,mailto%3Aprocessing%40steadycapitalsolutions.com,_blank,,', event)"
+          >
+            processing@steadycapitalsolutions.com
+          </div>
+        </div>
+        <div class="rectangle-71-C61RwL"></div>
+        <div class="rectangle-93-C61RwL"></div>
+        <div class="contact-information-C61RwL">Contact Information</div>
+        <div class="application-C61RwL">Application</div>
+        <div class="no-path-copy-9-C61RwL"></div>
+        <div class="no-path-copy-11-C61RwL"></div>
+        <div class="x7185047439-C61RwL" onclick="Lib.autoanim_redirect('%2A,tel%3A718-504-7439,,,', event)">
+          718.504.7439
+        </div>
+        <div
+          class="processing-lutionscom-C61RwL"
+          onclick="Lib.autoanim_redirect('%2A,mailto%3Aprocessing%40steadycapitalsolutions.com,_blank,,', event)"
+        >
+          processing@steadycapitalsolutions.com
+        </div>
+        <div class="rectangle-94-C61RwL"></div>
+        <div class="rectangle-95-C61RwL"></div>
+        <div class="rectangle-96-C61RwL"></div>
+        <div class="rectangle-97-C61RwL"></div>
+        <div class="rectangle-102-C61RwL"></div>
+        <div class="rectangle-100-C61RwL"></div>
+        <div class="rectangle-101-C61RwL"></div>
+        <div class="rectangle-98-C61RwL"></div>
+        <div class="rectangle-99-C61RwL"></div>
+        <div class="full-name-C61RwL">Full Name</div>
+        <div class="company-C61RwL">Company</div>
+        <div class="email-address-C61RwL">Email Address</div>
+        <div class="website-C61RwL">Website</div>
+        <div class="message-C61RwL">Message</div>
+        <div class="city-C61RwL">City</div>
+        <div class="state-C61RwL">State</div>
+        <div class="address-C61RwL">Address</div>
+        <input class="a-C61RwL" name="a27" placeholder="Enter Full Name" required />
+        <input class="a-VMr6Om" name="a28" placeholder="Enter Company  Name" required />
+        <input class="a-mzXdH9" name="a29" placeholder="Enter email address" type="email" required />
+        <input class="a-QxM5SU" name="a30" placeholder="Enter Website" required />
+        <textarea class="a-2P4qUJ" name="a31" placeholder="Enter your message here" required></textarea>
+        <input class="a-qr8e7q" name="a32" placeholder="City" required />
+        <input class="a-J1YQmd" name="a33" placeholder="State" required />
+        <input class="a-a5WPlX" name="a34" placeholder="Address #1" required />
+        <input class="a-HlKRTo" name="a35" placeholder="Address #2" required />
+        <a href="javascript:SubmitForm('none')">
+          <div class="component-6-4-C61RwL smart-layers-pointers">
+            <div class="path-1-Gylxb4"></div>
+            <div class="apply-now-Gylxb4">Apply Now</div>
+          </div></a
+        >
+        <div class="rectangle-104-C61RwL"></div>
+        <div class="application-VMr6Om">APPLICATION</div>
+        <div class="group-12-C61RwL">
+          <div class="group-4-xFApRQ">
+            <div class="group-1-Po9WPY">
+              <div class="polygon-1-C9O7gc"></div>
+              <div class="polygon-2-C9O7gc"></div>
+              <div class="rectangle-1-C9O7gc"></div>
+              <div class="rectangle-2-C9O7gc"></div>
+              <div class="scs-logo-C9O7gc"></div>
+              <div class="scs-logo-KfN4H3"></div>
+            </div>
+            <div class="group-3-Po9WPY">
+              <div class="group-2-w5hRGQ">
+                <div class="rectangle-3-9doij7"></div>
+                <div
+                  class="group-17-9doij7 smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23home,,,', event)"
+                >
+                  <div class="rectangle-73-JzbdSO hidden"></div>
+                  <div class="home-JzbdSO smart-layers-pointers">Home</div>
+                </div>
+                <div
+                  class="component-4-3-9doij7 smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23business-funding,,,', event)"
+                >
+                  <div class="rectangle-4-gpKpGy"></div>
+                  <div class="business-funds-gpKpGy">Business Funds</div>
+                </div>
+                <div class="component-2-5-9doij7">
+                  <div class="rectangle-5-PRoySx"></div>
+                  <div class="about-PRoySx">About</div>
+                </div>
+                <div
+                  class="component-2-6-9doij7 smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23who-we-are,,ease-out,300', event)"
+                >
+                  <div class="rectangle-5-c0QYPS"></div>
+                  <div class="about-c0QYPS">About</div>
+                </div>
+                <div class="component-3-3-9doij7 smart-layers-pointers">
+                  <div class="rectangle-6-J0xnKr"></div>
+                  <div class="apply-now-J0xnKr">Apply Now</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rectangle-76-C61RwL"></div>
+        <div class="own-land-b-y-is-worth-C61RwL">
+          Own land, buildings, or any property at all? If you are willing to put it up as collateral we can make you an
+          offer based off how much your property is worth.
+        </div>
+        <div class="a-business-are-withdr-C61RwL">
+          A Business Line of Credit differs from term funds in that it <br />gives businesses access to a pool of funds
+          and the <br />flexibility as to when and how much funds to pull for <br />capital. For a line of credit,
+          interest is only collected on <br />the funds that are withdrawn, meanwhile capital is <br />available at any
+          moment. In a way, this is similar to a <br />credit card which can be charged and repaid over a fixed
+          <br />timeframe, in accordance with an overall credit limit. <br />When considering a Business Line of Credit,
+          businesses <br />should bear in mind the benefits of revolving credit such <br />as maximum flexibility,
+          low-interest rates, and full control <br />of the capital.<br />
+        </div>
+        <div class="no-path-copy-2-C61RwL"></div>
+        <div class="no-path-copy-2-VMr6Om"></div>
+        <div class="no-path-copy-2-mzXdH9"></div>
+        <div class="no-path-copy-2-QxM5SU"></div>
+        <div class="fixed-term-e-your-bus-C61RwL">
+          Fixed Term funding represents funding for which a <br />business borrows a lump sum of money and makes fixed
+          <br />payments over specific intervals of time. While both <br />repayment periods and interest rates vary,
+          once you are <br />‘locked in’ to a term and rate, your business can easily <br />budget to stay on track with
+          your customized repayment <br />plan. Fixed Term funding often have longer durations, <br />resulting in lower
+          interest rates so that operational cash <br />flow can be utilized where it is needed most.<br />
+        </div>
+        <div class="unsecured--nsecured-f-C61RwL">
+          Unsecured funding is funding that is generated based on <br />the borrower’s creditworthiness rather than any
+          type of <br />collateral. Qualifying for unsecured funds is <br />fundamentally easy, funding is fast, and the
+          paperwork is <br />minimal. While terms for unsecured funding are <br />generally shorter than secured
+          funding, businesses have <br />complete flexibility on how to use their funds.<br />
+        </div>
+        <div class="rectangle-77-C61RwL"></div>
+        <div class="rectangle-78-C61RwL"></div>
+        <div class="rectangle-80-C61RwL"></div>
+        <div class="rectangle-79-C61RwL"></div>
+        <div class="secured-funding-C61RwL">SECURED FUNDING</div>
+        <div class="fixed-term-funding-C61RwL">FIXED TERM FUNDING</div>
+        <div class="unsecured-funding-C61RwL">UNSECURED FUNDING</div>
+        <div class="business-l--of-credit-C61RwL">BUSINESS LINE OF CREDIT</div>
+        <div class="rectangle-81-C61RwL"></div>
+        <div class="business-funding-C61RwL">BUSINESS FUNDING</div>
+        <div class="rectangle-82-C61RwL"></div>
+        <div
+          class="component-6-2-C61RwL smart-layers-pointers"
+          onclick="Lib.autoanim_redirect('%2A,home%23application,,ease-out,300', event)"
+        >
+          <div class="path-1-GJws1M"></div>
+          <div class="apply-now-GJws1M">Apply Now</div>
+        </div>
+        <div class="group-27-C61RwL">
+          <div class="path-3-BKbGut"></div>
+          <div class="rectangle-70-BKbGut"></div>
+          <div class="rectangle-71-BKbGut"></div>
+          <div class="about-BKbGut">About</div>
+          <div class="contact-information-BKbGut">Contact Information</div>
+          <div class="no-path-copy-9-BKbGut"></div>
+          <div class="no-path-copy-11-BKbGut"></div>
+          <div class="group-10-BKbGut">
+            <div class="rectangle-23-qPu9jF"></div>
+            <div class="x-steady-ca--solutions-qPu9jF">© Steady Capital Solutions</div>
+          </div>
+          <div class="x7185047439-BKbGut" onclick="Lib.autoanim_redirect('%2A,tel%3A718-504-7439,,,', event)">
+            718.504.7439
+          </div>
+          <div
+            class="processing-lutionscom-BKbGut"
+            onclick="Lib.autoanim_redirect('%2A,mailto%3Aprocessing%40steadycapitalsolutions.com,_blank,,', event)"
+          >
+            processing@steadycapitalsolutions.com
+          </div>
+          <div class="were-here--and-how-we-BKbGut">
+            We&#39;re here to help your company expand. Our team consists of professionals<br />who will understand your
+            goals and show you the best financial options to<br />achieve them. To us, you aren&#39;t a customer,
+            you&#39;re a partner. We&#39;re here to learn<br />your business and how we can best help you and your
+            enterprise.<br />
+          </div>
+          <div class="rectangle-72-BKbGut"></div>
+        </div>
+        <div class="group-25-C61RwL">
+          <div
+            class="madeb-media-wide-StUjmZ"
+            onclick="Lib.autoanim_redirect('%2A,https%3A//www.madebmedia.com/,,,', event)"
+          ></div>
+          <div class="x-madeb-med-s-reserved-StUjmZ">®MadebMedia, All rights reserved</div>
+        </div>
+        <div class="group-11-C61RwL">
+          <div class="group-4-bAyQtV">
+            <div class="group-1-Lihjms">
+              <div class="polygon-1-YySFTL"></div>
+              <div class="polygon-2-YySFTL"></div>
+              <div class="rectangle-1-YySFTL"></div>
+              <div class="rectangle-2-YySFTL"></div>
+              <div class="scs-logo-YySFTL"></div>
+              <div class="scs-logo-oRVdW8"></div>
+            </div>
+            <div class="group-3-Lihjms">
+              <div class="group-2-diGJ88">
+                <div class="rectangle-3-prF1MV"></div>
+                <div
+                  class="group-19-prF1MV smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23home,,,', event)"
+                >
+                  <div class="rectangle-75-F0cs8N hidden"></div>
+                  <div class="home-F0cs8N smart-layers-pointers">Home</div>
+                </div>
+                <div class="component-4-2-prF1MV">
+                  <div class="rectangle-4-IXCCAC"></div>
+                  <div class="business-funds-IXCCAC">Business Funds</div>
+                </div>
+                <div class="component-2-3-prF1MV">
+                  <div class="rectangle-5-snjQrn"></div>
+                  <div class="about-snjQrn">About</div>
+                </div>
+                <div
+                  class="component-2-4-prF1MV smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23who-we-are,,,', event)"
+                >
+                  <div class="rectangle-5-xx8Aa6"></div>
+                  <div class="about-xx8Aa6">About</div>
+                </div>
+                <div
+                  class="component-3-2-prF1MV smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23application,,,', event)"
+                >
+                  <div class="rectangle-6-7fAmIR"></div>
+                  <div class="apply-now-7fAmIR">Apply Now</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="group-22-C61RwL">
+          <div class="path-3-VdQhAS"></div>
+          <div class="rectangle-70-VdQhAS"></div>
+          <div class="rectangle-71-VdQhAS"></div>
+          <div class="about-VdQhAS">About</div>
+          <div class="contact-information-VdQhAS">Contact Information</div>
+          <div class="no-path-copy-9-VdQhAS"></div>
+          <div class="no-path-copy-11-VdQhAS"></div>
+          <div class="group-10-VdQhAS">
+            <div class="rectangle-23-PY8a2g"></div>
+            <div class="x-steady-ca--solutions-PY8a2g">© Steady Capital Solutions</div>
+            <div class="group-25-PY8a2g">
+              <div
+                class="madeb-media-wide-xxCSxH"
+                onclick="Lib.autoanim_redirect('%2A,https%3A//www.madebmedia.com/,,,', event)"
+              ></div>
+              <div class="x-madeb-med-s-reserved-xxCSxH">®MadebMedia, All rights reserved</div>
+            </div>
+          </div>
+          <div class="x7185047439-VdQhAS" onclick="Lib.autoanim_redirect('%2A,tel%3A718-504-7439,,,', event)">
+            718.504.7439
+          </div>
+          <div
+            class="processing-lutionscom-VdQhAS"
+            onclick="Lib.autoanim_redirect('%2A,mailto%3Aprocessing%40steadycapitalsolutions.com,_blank,,', event)"
+          >
+            processing@steadycapitalsolutions.com
+          </div>
+          <div class="were-here--and-how-we-VdQhAS">
+            We&#39;re here to help your company expand. Our team consists of professionals<br />who will understand your
+            goals and show you the best financial options to<br />achieve them. To us, you aren&#39;t a customer,
+            you&#39;re a partner. We&#39;re here to learn<br />your business and how we can best help you and your
+            enterprise.<br />
+          </div>
+          <div class="rectangle-72-VdQhAS"></div>
+        </div>
+        <div class="rectangle-85-C61RwL"></div>
+        <div class="rectangle-86-C61RwL"></div>
+        <div
+          class="component-6-3-C61RwL smart-layers-pointers"
+          onclick="Lib.autoanim_redirect('%2A,home%23application,,ease-out,300', event)"
+        >
+          <div class="path-1-8737xL"></div>
+          <div class="apply-now-8737xL">Apply Now</div>
+        </div>
+        <div class="rectangle-87-C61RwL"></div>
+        <div class="about-us-C61RwL">ABOUT US</div>
+        <div class="rectangle-91-C61RwL"></div>
+        <div class="rectangle-88-C61RwL"></div>
+        <div class="rectangle-84-C61RwL"></div>
+        <div class="rectangle-90-C61RwL"></div>
+        <div class="lots-of-fi-ng-options-C61RwL">LOTS OF FINANCING OPTIONS</div>
+        <div class="who-we-are-C61RwL">WHO WE ARE</div>
+        <div class="were-here--and-how-we-C61RwL">
+          We&#39;re here to help your company expand. Our team consists of professionals who will understand your goals
+          and show you the best financial options to achieve them. To us, you aren&#39;t a customer, you&#39;re a
+          partner. We&#39;re here to learn your business and how we can best help you and your enterprise.<br /><br />Working
+          with us is a long term partnership. We&#39;ll be here to provide our expertise and insight so your business
+          can go along the path to success.
+        </div>
+        <div class="we-work-wi-you-can-re-C61RwL">
+          We work with you every step of the way on your path to success. With the many financial options available to
+          you, Steady Capital Solutions will provide you with the best possible options to achieve your goals. With our
+          quick application process, you can rest assured your business will be on the right path.<br /><br />Our
+          partners being our highest priority, we will do everything we can to ensure that our relationship is simple,
+          easy, and beneficial.
+        </div>
+        <div class="shpenzimet1-C61RwL"></div>
+        <div class="no-path-copy-12-C61RwL"></div>
+        <div class="group-13-C61RwL">
+          <div class="group-4-WQXeF1">
+            <div class="group-1-WlKmYQ">
+              <div class="polygon-1-Xk42ig"></div>
+              <div class="polygon-2-Xk42ig"></div>
+              <div class="rectangle-1-Xk42ig"></div>
+              <div class="rectangle-2-Xk42ig"></div>
+              <div class="scs-logo-Xk42ig"></div>
+              <div class="scs-logo-Oxz6ex"></div>
+            </div>
+            <div class="group-3-WlKmYQ">
+              <div class="group-2-QbDSlb">
+                <div class="rectangle-3-H5WvIT"></div>
+                <div
+                  class="group-18-H5WvIT smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23home,,,', event)"
+                >
+                  <div class="rectangle-74-xnxmle hidden"></div>
+                  <div class="home-xnxmle smart-layers-pointers">Home</div>
+                </div>
+                <div
+                  class="component-4-4-H5WvIT smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23business-funding,,,', event)"
+                >
+                  <div class="rectangle-4-Gh8FxP"></div>
+                  <div class="business-funds-Gh8FxP">Business Funds</div>
+                </div>
+                <div class="component-2-7-H5WvIT">
+                  <div class="rectangle-5-NqntEy"></div>
+                  <div class="about-NqntEy">About</div>
+                </div>
+                <div class="component-2-8-H5WvIT">
+                  <div class="rectangle-5-3qxWBz"></div>
+                  <div class="about-3qxWBz">About</div>
+                </div>
+                <div
+                  class="component-3-4-H5WvIT smart-layers-pointers"
+                  onclick="Lib.autoanim_redirect('%2A,home%23application,,,', event)"
+                >
+                  <div class="rectangle-6-dLduz8"></div>
+                  <div class="apply-now-dLduz8">Apply Now</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+    <script>
+      "use strict";
+
+      function _toConsumableArray(arr) {
+        return (
+          _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread()
+        );
+      }
+
+      function _nonIterableSpread() {
+        throw new TypeError(
+          "Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."
+        );
+      }
+
+      function _iterableToArray(iter) {
+        if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter);
+      }
+
+      function _arrayWithoutHoles(arr) {
+        if (Array.isArray(arr)) return _arrayLikeToArray(arr);
+      }
+
+      function ownKeys(object, enumerableOnly) {
+        var keys = Object.keys(object);
+        if (Object.getOwnPropertySymbols) {
+          var symbols = Object.getOwnPropertySymbols(object);
+          if (enumerableOnly)
+            symbols = symbols.filter(function (sym) {
+              return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+            });
+          keys.push.apply(keys, symbols);
+        }
+        return keys;
+      }
+
+      function _objectSpread(target) {
+        for (var i = 1; i < arguments.length; i++) {
+          var source = arguments[i] != null ? arguments[i] : {};
+          if (i % 2) {
+            ownKeys(Object(source), true).forEach(function (key) {
+              _defineProperty(target, key, source[key]);
+            });
+          } else if (Object.getOwnPropertyDescriptors) {
+            Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+          } else {
+            ownKeys(Object(source)).forEach(function (key) {
+              Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+            });
+          }
+        }
+        return target;
+      }
+
+      function _defineProperty(obj, key, value) {
+        if (key in obj) {
+          Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });
+        } else {
+          obj[key] = value;
+        }
+        return obj;
+      }
+
+      function _createForOfIteratorHelper(o, allowArrayLike) {
+        var it;
+        if (typeof Symbol === "undefined" || o[Symbol.iterator] == null) {
+          if (
+            Array.isArray(o) ||
+            (it = _unsupportedIterableToArray(o)) ||
+            (allowArrayLike && o && typeof o.length === "number")
+          ) {
+            if (it) o = it;
+            var i = 0;
+            var F = function F() {};
+            return {
+              s: F,
+              n: function n() {
+                if (i >= o.length) return { done: true };
+                return { done: false, value: o[i++] };
+              },
+              e: function e(_e2) {
+                throw _e2;
+              },
+              f: F,
+            };
+          }
+          throw new TypeError(
+            "Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."
+          );
+        }
+        var normalCompletion = true,
+          didErr = false,
+          err;
+        return {
+          s: function s() {
+            it = o[Symbol.iterator]();
+          },
+          n: function n() {
+            var step = it.next();
+            normalCompletion = step.done;
+            return step;
+          },
+          e: function e(_e3) {
+            didErr = true;
+            err = _e3;
+          },
+          f: function f() {
+            try {
+              if (!normalCompletion && it["return"] != null) it["return"]();
+            } finally {
+              if (didErr) throw err;
+            }
+          },
+        };
+      }
+
+      function _slicedToArray(arr, i) {
+        return (
+          _arrayWithHoles(arr) ||
+          _iterableToArrayLimit(arr, i) ||
+          _unsupportedIterableToArray(arr, i) ||
+          _nonIterableRest()
+        );
+      }
+
+      function _nonIterableRest() {
+        throw new TypeError(
+          "Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."
+        );
+      }
+
+      function _unsupportedIterableToArray(o, minLen) {
+        if (!o) return;
+        if (typeof o === "string") return _arrayLikeToArray(o, minLen);
+        var n = Object.prototype.toString.call(o).slice(8, -1);
+        if (n === "Object" && o.constructor) n = o.constructor.name;
+        if (n === "Map" || n === "Set") return Array.from(o);
+        if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n))
+          return _arrayLikeToArray(o, minLen);
+      }
+
+      function _arrayLikeToArray(arr, len) {
+        if (len == null || len > arr.length) len = arr.length;
+        for (var i = 0, arr2 = new Array(len); i < len; i++) {
+          arr2[i] = arr[i];
+        }
+        return arr2;
+      }
+
+      function _iterableToArrayLimit(arr, i) {
+        if (typeof Symbol === "undefined" || !(Symbol.iterator in Object(arr))) return;
+        var _arr = [];
+        var _n = true;
+        var _d = false;
+        var _e = undefined;
+        try {
+          for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {
+            _arr.push(_s.value);
+            if (i && _arr.length === i) break;
+          }
+        } catch (err) {
+          _d = true;
+          _e = err;
+        } finally {
+          try {
+            if (!_n && _i["return"] != null) _i["return"]();
+          } finally {
+            if (_d) throw _e;
+          }
+        }
+        return _arr;
+      }
+
+      function _arrayWithHoles(arr) {
+        if (Array.isArray(arr)) return arr;
+      }
+
+      (function () {
+        var sides_opposites = {
+          left: "right",
+          right: "left",
+          top: "bottom",
+          bottom: "top",
+        };
+        var sides_containers = {
+          left: "width",
+          right: "width",
+          top: "height",
+          bottom: "height",
+        };
+        var containers = ["height", "width"];
+        var autoanimated_properties = [
+          "left",
+          "right",
+          "top",
+          "bottom",
+          "width",
+          "height",
+          "background-color",
+          "color",
+          "font-size",
+          "line-height",
+          "letter-spacing",
+          "border",
+          "border-size",
+          "border-color",
+          "margin",
+          "margin-right",
+          "margin-left",
+          "margin-top",
+          "margin-bottom",
+          "opacity",
+          "font-family",
+          "transform",
+          "rotate",
+        ];
+        var autoanimated_properties_from_zero = ["opacity", "rotate"];
+        var last_set_hash = "";
+
+        function normalize_to_percent_and_offset(value) {
+          var percent = 0.0;
+          var pixel_offset = 0;
+          var calc_match = value.match(/calc\(\s*([0-9.]*)%\s*([-+])\s*([0-9]*)px/);
+
+          if (calc_match) {
+            percent = parseFloat(calc_match[1]);
+            pixel_offset = parseInt(calc_match[3]);
+
+            if (calc_match[2] === "-") {
+              pixel_offset = -pixel_offset;
+            }
+          } else if (String(value).includes("%")) {
+            percent = parseFloat(value.replace("%", ""));
+          } else {
+            pixel_offset = parseInt(value, 10);
+          }
+
+          return {
+            percent: percent,
+            pixel_offset: pixel_offset,
+          };
+        }
+
+        function to_relative_percent(element, property, value) {
+          var offsetParent = element.offsetParent;
+
+          if (!offsetParent) {
+            return 0;
+          }
+
+          var target_style_property = property;
+
+          if (sides_containers.hasOwnProperty(property)) {
+            target_style_property = sides_containers[property];
+          }
+
+          var parent_size = Math.max(1, parseInt(getComputedStyle(offsetParent)[target_style_property], 10));
+          return parseFloat((100 * value) / parent_size);
+        }
+
+        function convert_to_matching_positioning(element, new_props) {
+          var computed_element_style = getComputedStyle(element);
+          Object.entries(new_props).forEach(function (_ref) {
+            var _ref2 = _slicedToArray(_ref, 2),
+              property = _ref2[0],
+              value = _ref2[1];
+
+            if (sides_opposites.hasOwnProperty(property)) {
+              var to_percent = String(value).includes("%");
+              var new_prop_value =
+                parseInt(computed_element_style[property], 10) +
+                parseInt(computed_element_style["margin-" + property], 10);
+
+              if (to_percent) {
+                new_prop_value = to_relative_percent(element, property, new_prop_value).toFixed(4) + "%";
+              } else {
+                new_prop_value += "px";
+              }
+
+              element.style[property] = new_prop_value;
+              element.style["margin-" + property] = 0;
+              element.style["margin-" + sides_opposites[property]] = 0;
+
+              if (element.style[sides_opposites[property]]) {
+                element.style[sides_opposites[property]] = "auto";
+              }
+            } else if (containers.includes(property)) {
+              var _to_percent = String(value).includes("%");
+
+              var _new_prop_value = parseInt(computed_element_style[property]);
+
+              if (_to_percent) {
+                _new_prop_value = to_relative_percent(element, property, _new_prop_value).toFixed(4) + "%";
+              } else {
+                _new_prop_value += "px";
+              }
+
+              element.style[property] = _new_prop_value;
+            }
+          });
+        }
+
+        function setup_listener(root_element, listener_specs, event_handler) {
+          var cleaner = null;
+
+          if (listener_specs.listener_type === "timer") {
+            var timeout = setTimeout(event_handler, listener_specs.delay);
+
+            cleaner = function cleaner() {
+              return clearTimeout(timeout);
+            };
+          } else if (["click", "mouseenter", "mouseleave"].includes(listener_specs.listener_type)) {
+            var target_element =
+              listener_specs.target_selector === ""
+                ? root_element
+                : root_element.querySelector(listener_specs.target_selector);
+
+            if (!target_element) {
+              return function () {};
+            }
+
+            var event_handler_fixed = function event_handler_fixed(event) {
+              if (event.type === "click" || event.target === target_element) {
+                event.stopPropagation();
+                event_handler();
+              }
+            };
+
+            target_element.classList.add("listeners-active");
+
+            if (listener_specs.listener_type === "click") {
+              target_element.classList.add("listeners-active-click");
+            }
+
+            target_element.addEventListener(listener_specs.listener_type, event_handler_fixed, true);
+
+            cleaner = function cleaner() {
+              target_element.removeEventListener(listener_specs.listener_type, event_handler_fixed, true);
+              target_element.classList.remove("listeners-active");
+              target_element.classList.remove("listeners-active-click");
+            };
+          }
+
+          return cleaner;
+        }
+
+        function animate_elements(root_element, selector_to_properties_map, transition_props, on_done) {
+          var from_current_position = arguments.length > 4 && arguments[4] !== undefined ? arguments[4] : true;
+          var hide_low_opacity = arguments.length > 5 && arguments[5] !== undefined ? arguments[5] : true;
+          var entries = selector_to_properties_map.entries
+            ? selector_to_properties_map.entries()
+            : Object.entries(selector_to_properties_map);
+
+          var _iterator = _createForOfIteratorHelper(entries),
+            _step;
+
+          try {
+            var _loop = function _loop() {
+              var _step$value = _slicedToArray(_step.value, 2),
+                selector_or_element = _step$value[0],
+                prop_values_map = _step$value[1];
+
+              var element = root_element;
+
+              if (typeof selector_or_element === "string") {
+                if (selector_or_element !== "") {
+                  element = root_element.querySelector(selector_or_element);
+                }
+              } else {
+                element = selector_or_element;
+              }
+
+              if (element) {
+                var update_element_visibility = function update_element_visibility(visible) {
+                  if (visible) {
+                    element.classList.toggle("hidden", false);
+                  } else {
+                    element.classList.toggle("hidden", true);
+                  }
+                };
+
+                if (hide_low_opacity) {
+                  update_element_visibility(
+                    prop_values_map["opacity"] > 0 || getComputedStyle(element).opacity > 0.001
+                  );
+                }
+
+                anime.remove(element);
+
+                var full_params = _objectSpread(
+                  _objectSpread(_objectSpread({}, transition_props), prop_values_map),
+                  {},
+                  {
+                    targets: [element],
+                    complete: function complete() {
+                      if (hide_low_opacity) {
+                        update_element_visibility(getComputedStyle(element).opacity > 0.001);
+                      }
+
+                      if (on_done) {
+                        on_done(element);
+                      }
+                    },
+                  }
+                );
+
+                if (prop_values_map.hasOwnProperty("transform")) {
+                  var transform_val = full_params.transform;
+                  delete full_params.transform;
+
+                  if (!Array.isArray(transform_val)) {
+                    transform_val
+                      .match(/\S*\([^)]*/g)
+                      .map(function (x) {
+                        return x.split("(");
+                      })
+                      .forEach(function (_ref3) {
+                        var _ref4 = _slicedToArray(_ref3, 2),
+                          key = _ref4[0],
+                          val = _ref4[1];
+
+                        full_params[key] = val;
+                      });
+                  }
+                }
+
+                if (full_params.hasOwnProperty("easing")) {
+                  var mapping = {
+                    "": "linear",
+                    none: "linear",
+                    bounce: "easeOutBounce",
+                    "wind-up": "cubicBezier(0.4, -0.25, 0.8, 0.8)",
+                    snap: "cubicBezier(0.8, 0.85, 0.7, 1.15)",
+                    "ease-in-out": "cubicBezier(0.42, 0, 0.58, 1)",
+                    "ease-in": "cubicBezier(0.42, 0, 1, 1)",
+                    "ease-out": "cubicBezier(0, 0, 0.58, 1)",
+                  };
+                  var easing = full_params["easing"].trim().toLowerCase();
+
+                  if (mapping.hasOwnProperty(easing)) {
+                    easing = mapping[easing];
+                  } else if (easing.startsWith("cubic-bezier")) {
+                    easing = easing.replace("cubic-bezier", "cubicBezier");
+                  }
+
+                  full_params["easing"] = easing;
+                }
+
+                if (from_current_position) {
+                  convert_to_matching_positioning(element, full_params);
+                  Object.keys(sides_opposites).forEach(function (side) {
+                    if (full_params.hasOwnProperty(side)) {
+                      var value = full_params[side];
+
+                      var _normalize_to_percent = normalize_to_percent_and_offset(value),
+                        percent = _normalize_to_percent.percent,
+                        pixel_offset = _normalize_to_percent.pixel_offset;
+
+                      if (Math.abs(percent) < 0.001) {
+                        full_params[side] = pixel_offset + "px";
+                      } else {
+                        full_params[side] = percent + "%";
+                        full_params["margin-" + side] = pixel_offset + "px";
+                      }
+
+                      element.style[sides_opposites[side]] = "auto";
+                    }
+                  });
+                  containers.forEach(function (container) {
+                    if (full_params.hasOwnProperty(container)) {
+                      var value = full_params[container];
+
+                      var _normalize_to_percent2 = normalize_to_percent_and_offset(value),
+                        percent = _normalize_to_percent2.percent,
+                        pixel_offset = _normalize_to_percent2.pixel_offset;
+
+                      if (Math.abs(percent) < 0.001) {
+                        full_params[container] = pixel_offset + "px";
+                      } else {
+                        if (Math.abs(pixel_offset) > 0) {
+                          percent += to_relative_percent(element, container, pixel_offset);
+                          percent = Math.max(0, percent);
+                        }
+
+                        full_params[container] = percent + "%";
+                      }
+                    }
+                  });
+                }
+
+                anime(full_params);
+              }
+            };
+
+            for (_iterator.s(); !(_step = _iterator.n()).done; ) {
+              _loop();
+            }
+          } catch (err) {
+            _iterator.e(err);
+          } finally {
+            _iterator.f();
+          }
+        }
+
+        function timeline_get_changed_properties_between_states(
+          initial_element_state,
+          from_state_element_state,
+          to_state_element_state
+        ) {
+          var selector_to_props = {};
+          Object.entries(from_state_element_state).forEach(function (_ref5) {
+            var _ref6 = _slicedToArray(_ref5, 2),
+              selector = _ref6[0],
+              properties = _ref6[1];
+
+            selector_to_props[selector] = selector_to_props[selector] || {};
+            Object.entries(properties).forEach(function (_ref7) {
+              var _ref8 = _slicedToArray(_ref7, 2),
+                property = _ref8[0],
+                value = _ref8[1];
+
+              selector_to_props[selector][property] = initial_element_state[selector][property];
+            });
+          });
+          Object.entries(to_state_element_state).forEach(function (_ref9) {
+            var _ref10 = _slicedToArray(_ref9, 2),
+              selector = _ref10[0],
+              properties = _ref10[1];
+
+            selector_to_props[selector] = selector_to_props[selector] || {};
+            Object.entries(properties).forEach(function (_ref11) {
+              var _ref12 = _slicedToArray(_ref11, 2),
+                property = _ref12[0],
+                value = _ref12[1];
+
+              selector_to_props[selector][property] = value;
+            });
+          });
+          return selector_to_props;
+        }
+
+        function timeline_transitioning_to_state(
+          root_element,
+          initial_properties,
+          states_flow,
+          now_state_name,
+          transition_animation_time
+        ) {
+          var new_state_flow = states_flow[now_state_name];
+          var listener_cleanup_callbacks = [];
+
+          var _iterator2 = _createForOfIteratorHelper(new_state_flow.listeners),
+            _step2;
+
+          try {
+            var _loop2 = function _loop2() {
+              var listener_specs = _step2.value;
+
+              function on_listener_run() {
+                listener_cleanup_callbacks.forEach(function (callback) {
+                  return callback();
+                });
+                listener_cleanup_callbacks = [];
+                var next_state_name = listener_specs.change_to_state;
+                var this_state_element_state = states_flow[now_state_name].overrides;
+                var next_state_element_state = states_flow[next_state_name].overrides;
+                var element_selector_to_changed_properties = timeline_get_changed_properties_between_states(
+                  initial_properties,
+                  this_state_element_state,
+                  next_state_element_state
+                );
+                var longest_animation_time_ms = 0;
+                Object.entries(listener_specs.animations).forEach(function (_ref13) {
+                  var _ref14 = _slicedToArray(_ref13, 2),
+                    selector = _ref14[0],
+                    animation_specs = _ref14[1];
+
+                  var filtered_props = {};
+
+                  if (element_selector_to_changed_properties.hasOwnProperty(selector)) {
+                    filtered_props[selector] = element_selector_to_changed_properties[selector];
+                    longest_animation_time_ms = Math.max(
+                      longest_animation_time_ms,
+                      animation_specs.delay + animation_specs.duration
+                    );
+                    animate_elements(root_element, filtered_props, animation_specs);
+                  }
+                });
+                timeline_transitioning_to_state(
+                  root_element,
+                  initial_properties,
+                  states_flow,
+                  next_state_name,
+                  longest_animation_time_ms
+                );
+              }
+
+              var final_listener_specs = _objectSpread({}, listener_specs);
+
+              if (listener_specs.listener_type === "timer") {
+                final_listener_specs.delay += transition_animation_time;
+              }
+
+              var cleanup_callback = setup_listener(root_element, final_listener_specs, on_listener_run);
+              listener_cleanup_callbacks.push(cleanup_callback);
+            };
+
+            for (_iterator2.s(); !(_step2 = _iterator2.n()).done; ) {
+              _loop2();
+            }
+          } catch (err) {
+            _iterator2.e(err);
+          } finally {
+            _iterator2.f();
+          }
+        }
+
+        function run_when_doc_ready(fn) {
+          if (!document.getElementById("anime-js-script")) {
+            var animejs_element = document.createElement("script");
+            animejs_element.id = "anime-js-script";
+            animejs_element.setAttribute("src", "https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js");
+            animejs_element.setAttribute("integrity", "sha256-98Q574VkbV+PkxXCKSgL6jVq9mrVbS7uCdA+vt0sLS8=");
+            animejs_element.setAttribute("crossorigin", "anonymous");
+            document.head.appendChild(animejs_element);
+          }
+
+          if (!document.getElementById("imgloaded-js-script")) {
+            var imgloaded_element = document.createElement("script");
+            imgloaded_element.id = "imgloaded-js-script";
+            imgloaded_element.setAttribute("src", "https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js");
+            document.head.appendChild(imgloaded_element);
+          }
+
+          if (window.anime === undefined || window.imagesLoaded === undefined) {
+            setTimeout(function () {
+              return run_when_doc_ready(fn);
+            }, 50);
+            return;
+          }
+
+          if (document.readyState === "complete" || document.readyState === "interactive") {
+            setTimeout(fn, 1);
+          } else {
+            document.addEventListener("DOMContentLoaded", fn);
+          }
+        }
+
+        function timeline_load_initial_values(components) {
+          components.forEach(function (component) {
+            var root_element = document.querySelector(component.root_element);
+            var states_flow = component.states_flow;
+            var initial_state_name = component.initial_state_name;
+            var initial_properties = {};
+            Object.values(component.states_flow).forEach(function (state_spec) {
+              Object.entries(state_spec.overrides).forEach(function (_ref15) {
+                var _ref16 = _slicedToArray(_ref15, 2),
+                  selector = _ref16[0],
+                  properties = _ref16[1];
+
+                initial_properties[selector] = initial_properties[selector] || {};
+                var element = selector === "" ? root_element : root_element.querySelector(selector);
+                Object.keys(properties).forEach(function (property) {
+                  initial_properties[selector][property] =
+                    element.style[property] ||
+                    (property === "transform" && "rotate(0deg)") ||
+                    window.getComputedStyle(element)[property];
+                });
+              });
+            });
+            Object.entries(component.states_flow[initial_state_name].overrides).forEach(function (_ref17) {
+              var _ref18 = _slicedToArray(_ref17, 2),
+                selector = _ref18[0],
+                properties = _ref18[1];
+
+              var element = selector === "" ? root_element : root_element.querySelector(selector);
+              animate_elements(
+                element,
+                {
+                  "": properties,
+                },
+                {
+                  duration: 0,
+                }
+              );
+            });
+            timeline_transitioning_to_state(root_element, initial_properties, states_flow, initial_state_name, 0);
+          });
+          document.querySelectorAll(".not-ready").forEach(function (x) {
+            return x.classList.remove("not-ready");
+          });
+        }
+
+        function autoanim_get_current_view() {
+          var hash = window.location.hash && window.location.hash.slice(1);
+          var screen_element = document.querySelector(".screen");
+          var screens_slugs = screen_element.getAttribute("data-screens").split(",");
+          var page = screen_element.getAttribute("data-page");
+
+          if (screens_slugs.indexOf(hash) !== -1) {
+            return [page, hash];
+          }
+
+          var _iterator3 = _createForOfIteratorHelper(screens_slugs),
+            _step3;
+
+          try {
+            for (_iterator3.s(); !(_step3 = _iterator3.n()).done; ) {
+              var slug = _step3.value;
+
+              if (screen_element.classList.contains(slug)) {
+                return [page, slug];
+              }
+            }
+          } catch (err) {
+            _iterator3.e(err);
+          } finally {
+            _iterator3.f();
+          }
+
+          return [page, page];
+        }
+
+        function autoanim_redirect(specs, event) {
+          var actions = specs.split(";");
+
+          var _autoanim_get_current = autoanim_get_current_view(),
+            _autoanim_get_current2 = _slicedToArray(_autoanim_get_current, 2),
+            page = _autoanim_get_current2[0],
+            current_screen = _autoanim_get_current2[1];
+
+          var _iterator4 = _createForOfIteratorHelper(actions),
+            _step4;
+
+          try {
+            for (_iterator4.s(); !(_step4 = _iterator4.n()).done; ) {
+              var action = _step4.value;
+
+              var _action$split = action.split(","),
+                _action$split2 = _slicedToArray(_action$split, 5),
+                from_screen = _action$split2[0],
+                target_url = _action$split2[1],
+                link_target_attribute = _action$split2[2],
+                easing = _action$split2[3],
+                duration = _action$split2[4];
+
+              from_screen = decodeURIComponent(from_screen);
+              target_url = decodeURIComponent(target_url);
+              duration = parseInt(duration, 10);
+
+              if (from_screen === "*" || from_screen === current_screen) {
+                var js_run = target_url.match(/\s*javascript\:(.*)/);
+
+                if (js_run) {
+                  eval(js_run[1]);
+                  event.stopPropagation();
+                  return false;
+                } else if (target_url.indexOf(page + "#") === 0) {
+                  autoanim_change_to_screen(current_screen, target_url.split("#")[1], easing, duration);
+                  event.stopPropagation();
+                  return false;
+                } else {
+                  window.open(target_url, link_target_attribute);
+                  event.stopPropagation();
+                  return false;
+                }
+              }
+            }
+          } catch (err) {
+            _iterator4.e(err);
+          } finally {
+            _iterator4.f();
+          }
+
+          return false;
+        }
+
+        function autoanim_reorder_by_z_indexes() {
+          var parents_contained_z_values = new Map();
+          var children_z = new Map();
+
+          var _iterator5 = _createForOfIteratorHelper(document.querySelectorAll(".screen[data-screens] *")),
+            _step5;
+
+          try {
+            for (_iterator5.s(); !(_step5 = _iterator5.n()).done; ) {
+              var element = _step5.value;
+              var computed_style = getComputedStyle(element);
+
+              if (["br", "#text", "#comment", "svg"].includes(element.nodeName && element.nodeName.toLowerCase())) {
+                continue;
+              }
+
+              var z = parseInt(computed_style.getPropertyValue("--z-index"));
+
+              if (z !== -1) {
+                if (!parents_contained_z_values.has(element.parentNode)) {
+                  parents_contained_z_values.set(element.parentNode, {});
+                }
+
+                var parent_z_values = parents_contained_z_values.get(element.parentNode);
+                parent_z_values[z] = true;
+                children_z.set(element, z);
+              }
+            }
+          } catch (err) {
+            _iterator5.e(err);
+          } finally {
+            _iterator5.f();
+          }
+
+          var _iterator6 = _createForOfIteratorHelper(parents_contained_z_values.entries()),
+            _step6;
+
+          try {
+            for (_iterator6.s(); !(_step6 = _iterator6.n()).done; ) {
+              var comparator = function comparator(a, b) {
+                var a_z = children_z.has(a) ? parseInt(children_z.get(a)) : -1;
+                var b_z = children_z.has(b) ? parseInt(children_z.get(b)) : -1;
+
+                if (a_z > b_z) {
+                  return 1;
+                } else if (a_z < b_z) {
+                  return -1;
+                }
+
+                return 0;
+              };
+
+              var _step6$value = _slicedToArray(_step6.value, 2),
+                parent = _step6$value[0],
+                z_values = _step6$value[1];
+
+              if (Object.keys(z_values).length <= 1) {
+                continue;
+              }
+
+              var children_sorted = _toConsumableArray(parent.children);
+
+              children_sorted.sort(comparator);
+
+              var _iterator7 = _createForOfIteratorHelper(children_sorted),
+                _step7;
+
+              try {
+                for (_iterator7.s(); !(_step7 = _iterator7.n()).done; ) {
+                  var child = _step7.value;
+                  parent.appendChild(child);
+                }
+              } catch (err) {
+                _iterator7.e(err);
+              } finally {
+                _iterator7.f();
+              }
+            }
+          } catch (err) {
+            _iterator6.e(err);
+          } finally {
+            _iterator6.f();
+          }
+        }
+
+        function autoanim_change_to_screen(current_slug, target_slug, easing, duration) {
+          var push_history = arguments.length > 4 && arguments[4] !== undefined ? arguments[4] : true;
+          var screen_node = document.querySelector(".screen[data-screens]");
+
+          if (screen_node.current_timed_transition) {
+            window.clearTimeout(screen_node.current_timed_transition);
+            screen_node.current_timed_transition = null;
+          }
+
+          var autoanim_data = screen_node.autoanim;
+          var new_styles = autoanim_data[target_slug];
+          var old_styles = autoanim_data[current_slug];
+
+          if (duration) {
+            var per_element_animated_props = new Map();
+            var all_elements = new Set(
+              [].concat(_toConsumableArray(new_styles.keys()), _toConsumableArray(old_styles.keys()))
+            );
+
+            var _iterator8 = _createForOfIteratorHelper(all_elements.values()),
+              _step8;
+
+            try {
+              for (_iterator8.s(); !(_step8 = _iterator8.n()).done; ) {
+                var element = _step8.value;
+                var new_element_style = new_styles.get(element);
+                var old_element_style = old_styles.get(element);
+
+                if (!new_element_style && !old_element_style) {
+                  continue;
+                }
+
+                var this_element_animated_props = {};
+
+                var _iterator9 = _createForOfIteratorHelper(autoanimated_properties),
+                  _step9;
+
+                try {
+                  for (_iterator9.s(); !(_step9 = _iterator9.n()).done; ) {
+                    var prop = _step9.value;
+                    var new_value =
+                      new_element_style === null || new_element_style === void 0 ? void 0 : new_element_style[prop];
+                    var old_value =
+                      old_element_style === null || old_element_style === void 0 ? void 0 : old_element_style[prop];
+
+                    if (new_value == null && old_value == null) {
+                      continue;
+                    }
+
+                    if (autoanimated_properties_from_zero.includes(prop)) {
+                      new_value = new_value || 0;
+                      old_value = old_value || 0;
+                    } else {
+                      new_value = new_value !== undefined ? new_value : old_value;
+                      old_value = old_value !== undefined ? old_value : new_value;
+                    }
+
+                    this_element_animated_props[prop] = [old_value, new_value];
+                  }
+                } catch (err) {
+                  _iterator9.e(err);
+                } finally {
+                  _iterator9.f();
+                }
+
+                if (Object.keys(this_element_animated_props).length !== 0) {
+                  per_element_animated_props.set(element, this_element_animated_props);
+                }
+              }
+            } catch (err) {
+              _iterator8.e(err);
+            } finally {
+              _iterator8.f();
+            }
+
+            var has_reordered = false;
+            var root_element = document.querySelector(".screen");
+            animate_elements(
+              root_element,
+              per_element_animated_props,
+              {
+                duration: duration,
+                easing: easing,
+              },
+              function (element) {
+                element.removeAttribute("style");
+
+                if (!has_reordered) {
+                  autoanim_reorder_by_z_indexes();
+                  has_reordered = true;
+                }
+              },
+              false,
+              false
+            );
+          } else {
+            setTimeout(autoanim_reorder_by_z_indexes);
+          }
+
+          var screen_element = document.querySelector(".screen");
+          var screens_slugs = screen_element.getAttribute("data-screens").split(",");
+
+          var _iterator10 = _createForOfIteratorHelper(screens_slugs),
+            _step10;
+
+          try {
+            for (_iterator10.s(); !(_step10 = _iterator10.n()).done; ) {
+              var slug = _step10.value;
+              screen_element.classList.toggle(slug, slug === target_slug);
+            }
+          } catch (err) {
+            _iterator10.e(err);
+          } finally {
+            _iterator10.f();
+          }
+
+          last_set_hash = "#" + target_slug;
+
+          if (history.pushState && current_slug && push_history) {
+            history.pushState(null, null, last_set_hash);
+          } else if (push_history) {
+            location.hash = last_set_hash;
+          } else {
+            window.location.replace(("" + window.location).split("#")[0] + last_set_hash);
+          }
+
+          var timed_transitions = screen_node.getAttribute("data-transitions");
+
+          if (timed_transitions) {
+            var _iterator11 = _createForOfIteratorHelper(timed_transitions.split(";")),
+              _step11;
+
+            try {
+              var _loop3 = function _loop3() {
+                var transition = _step11.value;
+
+                var _transition$split = transition.split(","),
+                  _transition$split2 = _slicedToArray(_transition$split, 5),
+                  transition_from_screen = _transition$split2[0],
+                  transition_to_screen = _transition$split2[1],
+                  delay = _transition$split2[2],
+                  easing = _transition$split2[3],
+                  duration_next = _transition$split2[4];
+
+                delay = parseInt(delay, 10);
+                easing = decodeURIComponent(easing);
+
+                if (target_slug === transition_from_screen) {
+                  if (duration) {
+                    delay += duration;
+                  }
+
+                  var delayed_exec_cb = function delayed_exec_cb() {
+                    screen_node.current_timed_transition = setTimeout(function () {
+                      autoanim_change_to_screen(
+                        transition_from_screen,
+                        transition_to_screen,
+                        easing,
+                        parseInt(duration_next, 10),
+                        false
+                      );
+                    }, Math.max(delay, 1));
+                    window.Lib.imagesLoadedFinished = true;
+                  };
+
+                  if (window.Lib.imagesLoadedFinished) {
+                    delayed_exec_cb();
+                  } else {
+                    imagesLoaded(
+                      ".screen *",
+                      {
+                        background: true,
+                      },
+                      delayed_exec_cb
+                    );
+                  }
+
+                  return "break";
+                }
+              };
+
+              for (_iterator11.s(); !(_step11 = _iterator11.n()).done; ) {
+                var _ret = _loop3();
+
+                if (_ret === "break") break;
+              }
+            } catch (err) {
+              _iterator11.e(err);
+            } finally {
+              _iterator11.f();
+            }
+          }
+        }
+
+        function transform_matrix_to_rotation(matrix_str) {
+          if (!matrix_str) {
+            return 0;
+          }
+
+          var split = matrix_str.split(/,|\(/);
+
+          if (!split || split.length !== 7) {
+            return 0;
+          }
+
+          var a = parseFloat(split[1]);
+          var b = parseFloat(split[2]);
+          return Math.round(Math.atan2(b, a) * (180 / Math.PI));
+        }
+
+        function autoanim_collect_styles(root_element) {
+          var css_by_screen = {};
+          var screens_slugs = root_element.getAttribute("data-screens").split(",");
+
+          var _iterator12 = _createForOfIteratorHelper(screens_slugs),
+            _step12;
+
+          try {
+            for (_iterator12.s(); !(_step12 = _iterator12.n()).done; ) {
+              var target_slug = _step12.value;
+
+              var _iterator13 = _createForOfIteratorHelper(screens_slugs),
+                _step13;
+
+              try {
+                for (_iterator13.s(); !(_step13 = _iterator13.n()).done; ) {
+                  var slug = _step13.value;
+                  root_element.classList.toggle(slug, slug === target_slug);
+                }
+              } catch (err) {
+                _iterator13.e(err);
+              } finally {
+                _iterator13.f();
+              }
+
+              css_by_screen[target_slug] = new Map();
+
+              var _iterator14 = _createForOfIteratorHelper(root_element.querySelectorAll("*")),
+                _step14;
+
+              try {
+                for (_iterator14.s(); !(_step14 = _iterator14.n()).done; ) {
+                  var animated_obj = _step14.value;
+                  var computed_style = getComputedStyle(animated_obj);
+
+                  if (computed_style.backgroundImage !== "none") {
+                    var pic = new Image();
+                    pic.src = computed_style.backgroundImage;
+                  }
+
+                  var zindex = parseInt(computed_style.getPropertyValue("--z-index"));
+
+                  if (zindex === -1) {
+                    continue;
+                  }
+
+                  var autoanim_props = {};
+
+                  var _iterator15 = _createForOfIteratorHelper(autoanimated_properties),
+                    _step15;
+
+                  try {
+                    for (_iterator15.s(); !(_step15 = _iterator15.n()).done; ) {
+                      var prop = _step15.value;
+                      var val = computed_style.getPropertyValue(prop);
+
+                      if (prop === "transform") {
+                        var rotation = transform_matrix_to_rotation(val);
+
+                        if (rotation) {
+                          autoanim_props["rotate"] = rotation;
+                        }
+                      } else if (val && val !== "none") {
+                        autoanim_props[prop] = computed_style.getPropertyValue(prop);
+                      }
+                    }
+                  } catch (err) {
+                    _iterator15.e(err);
+                  } finally {
+                    _iterator15.f();
+                  }
+
+                  autoanim_props["--z-index"] = zindex;
+                  css_by_screen[target_slug].set(animated_obj, autoanim_props);
+                }
+              } catch (err) {
+                _iterator14.e(err);
+              } finally {
+                _iterator14.f();
+              }
+            }
+          } catch (err) {
+            _iterator12.e(err);
+          } finally {
+            _iterator12.f();
+          }
+
+          root_element.autoanim = css_by_screen;
+        }
+
+        function init_timeline_components() {
+          run_when_doc_ready(function () {
+            var _iterator16 = _createForOfIteratorHelper(document.querySelectorAll(".component-wrapper")),
+              _step16;
+
+            try {
+              for (_iterator16.s(); !(_step16 = _iterator16.n()).done; ) {
+                var element = _step16.value;
+
+                if (element.timeline_data) {
+                  timeline_load_initial_values(element.timeline_data);
+                }
+              }
+            } catch (err) {
+              _iterator16.e(err);
+            } finally {
+              _iterator16.f();
+            }
+          });
+        }
+
+        function init_auto_animate() {
+          var screen_element = document.querySelector(".screen[data-screens]");
+
+          if (!screen_element) {
+            return;
+          }
+
+          screen_element.style.opacity = 0;
+          run_when_doc_ready(function () {
+            var _iterator17 = _createForOfIteratorHelper(document.querySelectorAll(".hidden")),
+              _step17;
+
+            try {
+              for (_iterator17.s(); !(_step17 = _iterator17.n()).done; ) {
+                var element = _step17.value;
+                element.classList.remove("hidden");
+              }
+            } catch (err) {
+              _iterator17.e(err);
+            } finally {
+              _iterator17.f();
+            }
+
+            var screen_element = document.querySelector(".screen[data-screens]");
+            screen_element.style.opacity = 1;
+
+            if (screen_element) {
+              var initial_screen = autoanim_get_current_view()[1];
+              autoanim_collect_styles(screen_element);
+              autoanim_change_to_screen(null, initial_screen);
+
+              window.onhashchange = function () {
+                if (last_set_hash !== location.hash) {
+                  autoanim_change_to_screen(null, autoanim_get_current_view()[1]);
+                }
+              };
+            }
+          });
+        }
+
+        window.Lib = {
+          autoanim_redirect: autoanim_redirect,
+        };
+        setTimeout(init_timeline_components, 0);
+        setTimeout(init_auto_animate, 0);
+      })();
+    </script>
+  </body>
+</html>

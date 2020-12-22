@@ -1,0 +1,4866 @@
+/* screen - home */
+
+.home {
+  background-color: transparent;
+  height: 1844px;
+  opacity: 1;
+  position: relative;
+  width: 1920px;
+}
+.home .about-JOOD7V {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.home .about-NRAddl {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 141px;
+}
+.home .about-qAsEw8 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.home .apply-now-3LR8oT {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.17% - 47px);
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+.home .apply-now-ynehWx {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 8px);
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 62px);
+}
+.home .business-funds-FMsOJD {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 17px);
+}
+.home .component-2-1-hN2mHr {
+  --z-index: 3;
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.33% - 51px);
+  top: 0px;
+  width: 153px;
+}
+.home .component-2-2-hN2mHr {
+  --z-index: 4;
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(33.33% - 51px);
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.home .component-2-2-hN2mHr:hover {
+
+filter: grayscale(100%);
+}
+.home .component-3-1-hN2mHr {
+  --z-index: 5;
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.home .component-3-1-hN2mHr:hover {
+
+filter: grayscale(100%);
+}
+.home .component-4-1-hN2mHr {
+  --z-index: 2;
+  background-color: transparent;
+  height: 100%;
+  left: calc(33.33% - 51px);
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.home .component-4-1-hN2mHr:hover {
+
+filter: grayscale(100%);
+}
+.home .component-6-1-xxkKyh {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 0px;
+  height: 53px;
+  left: 47px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+.home .component-6-1-xxkKyh:hover {
+
+transform: scale(0.9); 
+}
+.home .component-7-1-xxkKyh {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: 0px;
+  height: 53px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: 44px;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+.home .component-7-1-xxkKyh:hover {
+
+transform: scale(0.9); 
+}
+.home .contact-information-NRAddl {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.92% - 154px);
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 455px;
+}
+.home .dedicated-advisor-C61RwL {
+  --z-index: 31;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1114px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1234px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .do-you-nee-r-business-xxkKyh {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: "Segoe UI", Helvetica, Arial, serif;
+  font-size: 45px;
+  height: 125px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 58px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+.home .easy-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 435px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 760px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .ellipse-4-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/ellipse-4@1x.png);
+  background-size: 100% 100%;
+  height: 164px;
+  left: 691px;
+  opacity: 1;
+  position: absolute;
+  top: 756px;
+  width: 166px;
+}
+.home .fast-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 997px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 760px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .find-out-h-ualify-for-xxkKyh {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(31.88% - 31px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 41px;
+  font-style: normal;
+  font-weight: 400;
+  height: 97px;
+  letter-spacing: 0.00px;
+  line-height: 41px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.40% - 170px);
+  text-align: center;
+  width: 352px;
+}
+.home .flexible-c-tive-terms-C61RwL {
+  --z-index: 32;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1114px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1032px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .free-to-apply-C61RwL {
+  --z-index: 28;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 326px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1052px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .funding-ar-6-36-hours-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 958px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 838px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .group-1-4xJ0oe {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .group-10-NRAddl {
+  --z-index: 7;
+  background-color: transparent;
+  bottom: 0px;
+  height: 118px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.home .group-2-eQV7T3 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.home .group-25-hj6O4m {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 0px;
+  height: 63px;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  width: 127px;
+}
+.home .group-28-C61RwL {
+  --z-index: 39;
+  background-color: transparent;
+  height: 472px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1372px;
+  width: 1920px;
+}
+.home .group-29-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 699px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.home .group-3-4xJ0oe {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: calc(17.75% - 8px);
+  width: 672px;
+}
+.home .group-30-C61RwL {
+  --z-index: 40;
+  background-color: transparent;
+  height: 326px;
+  left: 89px;
+  opacity: 1;
+  position: absolute;
+  top: 235px;
+  width: 540px;
+}
+.home .group-4-9dtg3L {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.home .group-9-C61RwL {
+  --z-index: 42;
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: -24px;
+  width: 1920px;
+}
+.home .home-hN2mHr {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.home .interest-i-ransparent-C61RwL {
+  --z-index: 36;
+  background-color: transparent;
+  color: rgba(146,146,146,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1109px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1172px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .learn-more-C7Jtsq {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 8px);
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 56px);
+}
+.home .madeb-media-wide-FqqTbT {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/madebmediawide@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 7px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .mask-group-10-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  height: 81px;
+  left: 991px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1032px;
+  width: 83px;
+}
+.home .mask-group-11-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  height: 81px;
+  left: 991px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1133px;
+  width: 83px;
+}
+.home .mask-group-12-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  height: 81px;
+  left: 991px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1234px;
+  width: 83px;
+}
+.home .mask-group-2-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  height: 81px;
+  left: 203px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1032px;
+  width: 83px;
+}
+.home .mask-group-8-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  height: 81px;
+  left: 203px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1133px;
+  width: 83px;
+}
+.home .mask-group-9-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  height: 81px;
+  left: 203px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1234px;
+  width: 83px;
+}
+.home .no-path-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/nopath@1x.png);
+  background-size: 100% 100%;
+  height: 164px;
+  left: 691px;
+  opacity: 1;
+  position: absolute;
+  top: 756px;
+  width: 166px;
+}
+.home .no-path-copy-11-NRAddl {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--11-@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(47.80% - 30px);
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  width: 62px;
+}
+.home .no-path-copy-5-sUxRyR {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--5--1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .no-path-copy-6-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--6-@1x.png);
+  background-size: 100% 100%;
+  height: 164px;
+  left: 131px;
+  opacity: 1;
+  position: absolute;
+  top: 756px;
+  width: 166px;
+}
+.home .no-path-copy-7-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--7-@1x.png);
+  background-size: 100% 100%;
+  height: 164px;
+  left: 1249px;
+  opacity: 1;
+  position: absolute;
+  top: 756px;
+  width: 166px;
+}
+.home .no-path-copy-9-NRAddl {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--9-@1x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  top: calc(32.20% - 20px);
+  width: 62px;
+}
+.home .no-payment-idden-fees-C61RwL {
+  --z-index: 33;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1114px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1132px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .once-your--onal-funds-C61RwL {
+  --z-index: 38;
+  background-color: transparent;
+  color: rgba(146,146,146,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 321px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1276px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .one-of-our-of-the-way-C61RwL {
+  --z-index: 37;
+  background-color: transparent;
+  color: rgba(146,146,146,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1109px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1273px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .our-team-w-s-it-takes-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1467px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 836px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .path-1-ynehWx {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .path-18-NhxVnA {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-6@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .path-19-NhxVnA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-7@1x.png);
+  background-size: 100% 100%;
+  height: 28px;
+  opacity: 1;
+  position: absolute;
+  right: calc(45.92% - 18px);
+  top: calc(50.00% - 14px);
+  width: 40px;
+}
+.home .path-2-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-2@1x.png);
+  background-size: 100% 100%;
+  height: 277px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 699px;
+  width: 1920px;
+}
+.home .path-20-5Ph6wq {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-6@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .path-21-5Ph6wq {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-7@1x.png);
+  background-size: 100% 100%;
+  height: 28px;
+  opacity: 1;
+  position: absolute;
+  right: calc(45.92% - 18px);
+  top: calc(50.00% - 14px);
+  width: 40px;
+}
+.home .path-22-ps7Py9 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-6@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .path-23-ps7Py9 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-23@1x.png);
+  background-size: 100% 100%;
+  height: 28px;
+  opacity: 1;
+  position: absolute;
+  right: calc(45.92% - 18px);
+  top: calc(50.00% - 14px);
+  width: 40px;
+}
+.home .path-24-v8Z9Sc {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-6@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .path-25-v8Z9Sc {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-23@1x.png);
+  background-size: 100% 100%;
+  height: 28px;
+  opacity: 1;
+  position: absolute;
+  right: calc(45.92% - 18px);
+  top: calc(50.00% - 14px);
+  width: 40px;
+}
+.home .path-26-jYeEbu {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-6@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .path-27-jYeEbu {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-23@1x.png);
+  background-size: 100% 100%;
+  height: 28px;
+  opacity: 1;
+  position: absolute;
+  right: calc(45.92% - 18px);
+  top: calc(50.00% - 14px);
+  width: 40px;
+}
+.home .path-3-NRAddl {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-3@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 112px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .path-6-iHx6oA {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-6@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .path-7-iHx6oA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-7@1x.png);
+  background-size: 100% 100%;
+  height: 28px;
+  opacity: 1;
+  position: absolute;
+  right: calc(45.92% - 18px);
+  top: calc(50.00% - 14px);
+  width: 40px;
+}
+.home .polygon-1-z9FusB {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/polygon-1@1x.png);
+  background-size: 100% 100%;
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+  right: 163px;
+  top: 24px;
+  width: 1026px;
+}
+.home .polygon-2-z9FusB {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/polygon-2@1x.png);
+  background-size: 100% 100%;
+  height: 96px;
+  left: 218px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  width: 1026px;
+}
+.home .processing-lutionscom-NRAddl {
+  --z-index: 9;
+  background-color: transparent;
+  bottom: calc(47.65% - 22px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  right: calc(21.38% - 124px);
+  text-align: center;
+  white-space: nowrap;
+  width: 582px;
+}
+.home .rectangle-1-z9FusB {
+  --z-index: 2;
+  background-color: rgba(206,206,206,1.0);
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 24px;
+  width: 676px;
+}
+.home .rectangle-103-C61RwL {
+  --z-index: 41;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 592px;
+}
+.home .rectangle-11-C7Jtsq {
+  --z-index: 0;
+  background-color: rgba(206,206,206,1.0);
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-15-C61RwL {
+  --z-index: 6;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 428px;
+  opacity: 1;
+  position: absolute;
+  top: 756px;
+  width: 132px;
+}
+.home .rectangle-18-C61RwL {
+  --z-index: 7;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 987px;
+  opacity: 1;
+  position: absolute;
+  top: 756px;
+  width: 131px;
+}
+.home .rectangle-2-z9FusB {
+  --z-index: 3;
+  background-color: rgba(255,255,255,1.0);
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  width: 731px;
+}
+.home .rectangle-21-C61RwL {
+  --z-index: 8;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 1498px;
+  opacity: 1;
+  position: absolute;
+  top: 756px;
+  width: 227px;
+}
+.home .rectangle-22-C61RwL {
+  --z-index: 15;
+  background-color: rgba(255,255,255,1.0);
+  height: 395px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 976px;
+  width: 1920px;
+}
+.home .rectangle-23-hj6O4m {
+  --z-index: 0;
+  background-color: rgba(0,0,0,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-3-hN2mHr {
+  --z-index: 0;
+  background-color: rgba(15,117,188,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 0.55;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+.home .rectangle-39-C61RwL {
+  --z-index: 22;
+  background-color: rgba(15,117,188,1.0);
+  height: 40px;
+  left: 322px;
+  opacity: 1;
+  position: absolute;
+  top: 1053px;
+  width: 179px;
+}
+.home .rectangle-4-FMsOJD {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-5-JOOD7V {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-5-qAsEw8 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-55-C61RwL {
+  --z-index: 23;
+  background-color: rgba(15,117,188,1.0);
+  height: 40px;
+  left: 321px;
+  opacity: 1;
+  position: absolute;
+  top: 1133px;
+  width: 260px;
+}
+.home .rectangle-59-C61RwL {
+  --z-index: 24;
+  background-color: rgba(15,117,188,1.0);
+  height: 40px;
+  left: 321px;
+  opacity: 1;
+  position: absolute;
+  top: 1234px;
+  width: 583px;
+}
+.home .rectangle-6-3LR8oT {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-62-C61RwL {
+  --z-index: 25;
+  background-color: rgba(15,117,188,1.0);
+  height: 40px;
+  left: 1109px;
+  opacity: 1;
+  position: absolute;
+  top: 1234px;
+  width: 244px;
+}
+.home .rectangle-64-C61RwL {
+  --z-index: 26;
+  background-color: rgba(15,117,188,1.0);
+  height: 40px;
+  left: 1109px;
+  opacity: 1;
+  position: absolute;
+  top: 1032px;
+  width: 358px;
+}
+.home .rectangle-67-C61RwL {
+  --z-index: 27;
+  background-color: rgba(15,117,188,1.0);
+  height: 40px;
+  left: 1109px;
+  opacity: 1;
+  position: absolute;
+  top: 1133px;
+  width: 489px;
+}
+.home .rectangle-70-NRAddl {
+  --z-index: 1;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  left: 131px;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  width: 155px;
+}
+.home .rectangle-71-NRAddl {
+  --z-index: 2;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.84% - 159px);
+  top: 44px;
+  width: 469px;
+}
+.home .rectangle-72-NRAddl {
+  --z-index: 11;
+  background-color: rgba(255,255,255,1.0);
+  height: 283px;
+  left: calc(49.56% - 3px);
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+.home .rectangle-8-sUxRyR {
+  --z-index: 2;
+  background-color: rgba(15,117,188,1.0);
+  border-radius: 10px;
+  height: 159px;
+  left: 123px;
+  opacity: 0.95;
+  position: absolute;
+  top: calc(40.56% - 64px);
+  width: 475px;
+}
+.home .rectangle-9-sUxRyR {
+  --z-index: 1;
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 10px;
+  bottom: calc(34.48% - 40px);
+  height: 116px;
+  left: 168px;
+  opacity: 0.95;
+  position: absolute;
+  width: 385px;
+}
+.home .reliable-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1505px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 760px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .scs-logo-c1vqck {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/scs-logo-1@1x.png);
+  background-size: 100% 100%;
+  height: 286px;
+  left: 194px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 398px;
+}
+.home .scs-logo-z9FusB {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/scs-logo@1x.png);
+  background-size: 100% 100%;
+  height: 118px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+.home .span0-xbfzBc {
+  font-family: 'SegoeUI-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span1-xbfzBc {
+  font-family: 'SegoeUI-Bold', Helvetica, Arial, serif;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .terms-that-nk-account-C61RwL {
+  --z-index: 35;
+  background-color: transparent;
+  color: rgba(146,146,146,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1109px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1071px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .upon-renew-onal-funds-C61RwL {
+  --z-index: 30;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 326px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1234px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .were-here--and-how-we-NRAddl {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 153px;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(35.27% - 54px);
+  white-space: nowrap;
+  width: 810px;
+}
+.home .with-our-f-ness-needs-C61RwL {
+  --z-index: 34;
+  background-color: transparent;
+  color: rgba(146,146,146,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 321px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1174px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .x-madeb-med-s-reserved-FqqTbT {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -1px;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 3px);
+}
+.home .x-steady-ca--solutions-hj6O4m {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(46.74% - 12px);
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 214px;
+}
+.home .x1-page-app-statements-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 322px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 837px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .x1828640-9IHP4N {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.home .x1828640-9krrgc {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.home .x1828640-L7YpCZ {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.home .x1828640-PpBzwo {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.home .x1828640-hzAbqh {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.home .x1828640-xwQzQP {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.home .x5000-2000000-C61RwL {
+  --z-index: 29;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 326px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1132px;
+  white-space: nowrap;
+  width: auto;
+}
+.home .x7185047439-NRAddl {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  letter-spacing: 0.00px;
+  line-height: 63px;
+  opacity: 1;
+  position: absolute;
+  right: calc(36.01% - 99px);
+  text-align: center;
+  top: calc(32.19% - 21px);
+  white-space: nowrap;
+  width: 276px;
+}
+/* screen - application */
+
+.application {
+  background-color: transparent;
+  height: 2275px;
+  opacity: 1;
+  position: relative;
+  width: 1920px;
+}
+.application .a-2P4qUJ {
+  --z-index: 31;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 322px;
+  left: 1025px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1318px;
+  width: 637px;
+}
+.application .a-2P4qUJ::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .a-C61RwL {
+  --z-index: 27;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 600px;
+  white-space: nowrap;
+  width: 637px;
+}
+.application .a-C61RwL::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .a-HlKRTo {
+  --z-index: 35;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1026px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1104px;
+  white-space: nowrap;
+  width: 637px;
+}
+.application .a-HlKRTo::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .a-J1YQmd {
+  --z-index: 33;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1355px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1212px;
+  white-space: nowrap;
+  width: 310px;
+}
+.application .a-J1YQmd::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .a-QxM5SU {
+  --z-index: 30;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 934px;
+  white-space: nowrap;
+  width: 637px;
+}
+.application .a-QxM5SU::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .a-VMr6Om {
+  --z-index: 28;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 710px;
+  white-space: nowrap;
+  width: 637px;
+}
+.application .a-VMr6Om::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .a-a5WPlX {
+  --z-index: 34;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1044px;
+  white-space: nowrap;
+  width: 637px;
+}
+.application .a-a5WPlX::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .a-mzXdH9 {
+  --z-index: 29;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 822px;
+  white-space: nowrap;
+  width: 637px;
+}
+.application .a-mzXdH9::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .a-qr8e7q {
+  --z-index: 32;
+  background-color: transparent;
+  border: 0;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1025px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1212px;
+  white-space: nowrap;
+  width: 270px;
+}
+.application .a-qr8e7q::placeholder {
+  color: rgba(15,117,188,0.6);
+}
+.application .about-PRoySx {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.application .about-aRbOOb {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 141px;
+}
+.application .about-c0QYPS {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.application .address-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1018px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 988px;
+  white-space: nowrap;
+  width: 658px;
+}
+.application .application-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  white-space: nowrap;
+  width: auto;
+}
+.application .application-VMr6Om {
+  --z-index: 40;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 161px;
+  letter-spacing: 0.00px;
+  line-height: 94px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  white-space: nowrap;
+  width: auto;
+}
+.application .apply-now-Gylxb4 {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 8px);
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 62px);
+}
+.application .apply-now-J0xnKr {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.17% - 47px);
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+.application .business-funds-gpKpGy {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 17px);
+}
+.application .city-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1016px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1156px;
+  white-space: nowrap;
+  width: 321px;
+}
+.application .company-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1017px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 656px;
+  white-space: nowrap;
+  width: 658px;
+}
+.application .component-2-5-9doij7 {
+  --z-index: 3;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  opacity: 1;
+  position: absolute;
+  right: calc(33.40% - 51px);
+  top: 0px;
+  width: 153px;
+}
+.application .component-2-6-9doij7 {
+  --z-index: 4;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(33.40% - 51px);
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.application .component-2-6-9doij7:hover {
+
+filter: grayscale(100%);
+}
+.application .component-3-3-9doij7 {
+  --z-index: 5;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.application .component-3-3-9doij7:hover {
+
+filter: grayscale(100%);
+}
+.application .component-4-3-9doij7 {
+  --z-index: 2;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: calc(33.20% - 51px);
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.application .component-4-3-9doij7:hover {
+
+filter: grayscale(100%);
+}
+.application .component-6-4-C61RwL {
+  --z-index: 36;
+  background-color: transparent;
+  height: 53px;
+  left: 1234px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 1684px;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+.application .component-6-4-C61RwL:hover {
+
+transform: scale(0.9); 
+}
+.application .contact-information-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 255px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  white-space: nowrap;
+  width: auto;
+}
+.application .contact-information-Pxx2HD {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.92% - 154px);
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 455px;
+}
+.application .contact-information-aRbOOb {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.92% - 154px);
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 455px;
+}
+.application .email-address-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1018px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 766px;
+  white-space: nowrap;
+  width: 658px;
+}
+.application .full-name-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1017px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 544px;
+  white-space: nowrap;
+  width: 658px;
+}
+.application .group-1-Po9WPY {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .group-10-aRbOOb {
+  --z-index: 7;
+  background-color: transparent;
+  bottom: 0px;
+  height: 118px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.application .group-12-C61RwL {
+  --z-index: 41;
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: -23px;
+  width: 1920px;
+}
+.application .group-17-9doij7 {
+  --z-index: 1;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.application .group-17-9doij7:hover {
+
+filter: grayscale(100%);
+}
+.application .group-2-w5hRGQ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.application .group-25-PmszAj {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 0px;
+  height: 63px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  width: 127px;
+}
+.application .group-26-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 476px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1799px;
+  width: 1920px;
+}
+.application .group-3-Po9WPY {
+  --z-index: 1;
+  background-color: transparent;
+  height: 45px;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: calc(17.82% - 8px);
+  width: 671px;
+}
+.application .group-4-xFApRQ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.application .home-JzbdSO {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(23.33% - 7px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.48% - 28px);
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 56px;
+}
+.application .home-JzbdSO:hover {
+
+filter: grayscale(100%);
+}
+.application .madeb-media-wide-lT6iDl {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/madebmediawide@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 7px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .message-C61RwL {
+  --z-index: 23;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1016px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1262px;
+  white-space: nowrap;
+  width: 658px;
+}
+.application .no-path-copy-11-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--11-@1x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  left: 262px;
+  opacity: 1;
+  position: absolute;
+  top: 645px;
+  width: 62px;
+}
+.application .no-path-copy-11-Pxx2HD {
+  --z-index: 15;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--11-@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(48.31% - 30px);
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  width: 62px;
+}
+.application .no-path-copy-11-aRbOOb {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--11-@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(48.31% - 30px);
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  width: 62px;
+}
+.application .no-path-copy-5-C61RwL {
+  --z-index: 37;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--5-@1x.png);
+  background-size: 100% 100%;
+  height: 412px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.application .no-path-copy-9-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--9-@1x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  left: 262px;
+  opacity: 1;
+  position: absolute;
+  top: 563px;
+  width: 62px;
+}
+.application .no-path-copy-9-Pxx2HD {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--9-@1x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  top: calc(31.88% - 20px);
+  width: 62px;
+}
+.application .no-path-copy-9-aRbOOb {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--9-@1x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  top: calc(31.88% - 20px);
+  width: 62px;
+}
+.application .path-1-Gylxb4 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .path-3-aRbOOb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-3@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 116px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.application .polygon-1-C9O7gc {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/polygon-1@1x.png);
+  background-size: 100% 100%;
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+  right: 163px;
+  top: 24px;
+  width: 1026px;
+}
+.application .polygon-2-C9O7gc {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/polygon-2-2@1x.png);
+  background-size: 100% 100%;
+  height: 96px;
+  left: 218px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  width: 1026px;
+}
+.application .processing-lutionscom-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 339px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 654px;
+  white-space: nowrap;
+  width: auto;
+}
+.application .processing-lutionscom-Pxx2HD {
+  --z-index: 17;
+  background-color: transparent;
+  bottom: calc(48.14% - 22px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  right: calc(21.38% - 124px);
+  text-align: center;
+  white-space: nowrap;
+  width: 582px;
+}
+.application .processing-lutionscom-aRbOOb {
+  --z-index: 9;
+  background-color: transparent;
+  bottom: calc(48.14% - 22px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  right: calc(21.38% - 124px);
+  text-align: center;
+  white-space: nowrap;
+  width: 582px;
+}
+.application .rectangle-1-C9O7gc {
+  --z-index: 2;
+  background-color: rgba(206,206,206,1.0);
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 24px;
+  width: 676px;
+}
+.application .rectangle-100-C61RwL {
+  --z-index: 15;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 53px;
+  left: 1016px;
+  opacity: 1;
+  position: absolute;
+  top: 1212px;
+  width: 319px;
+}
+.application .rectangle-101-C61RwL {
+  --z-index: 16;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 53px;
+  left: 1346px;
+  opacity: 1;
+  position: absolute;
+  top: 1212px;
+  width: 327px;
+}
+.application .rectangle-102-C61RwL {
+  --z-index: 14;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 329px;
+  left: 1016px;
+  opacity: 1;
+  position: absolute;
+  top: 1319px;
+  width: 655px;
+}
+.application .rectangle-103-C61RwL {
+  --z-index: 38;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 592px;
+}
+.application .rectangle-104-C61RwL {
+  --z-index: 39;
+  background-color: rgba(15,117,188,1.0);
+  border-radius: 10px;
+  height: 97px;
+  left: 150px;
+  opacity: 0.95;
+  position: absolute;
+  top: 199px;
+  width: 459px;
+}
+.application .rectangle-2-C9O7gc {
+  --z-index: 3;
+  background-color: rgba(255,255,255,1.0);
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  width: 731px;
+}
+.application .rectangle-23-PmszAj {
+  --z-index: 0;
+  background-color: rgba(0,0,0,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .rectangle-3-9doij7 {
+  --z-index: 0;
+  background-color: rgba(15,117,188,1.0);
+  height: calc(100.00% - 1px);
+  opacity: 0.55;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 153px;
+}
+.application .rectangle-4-gpKpGy {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .rectangle-5-PRoySx {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .rectangle-5-c0QYPS {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .rectangle-6-J0xnKr {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .rectangle-70-aRbOOb {
+  --z-index: 1;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  left: 131px;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  width: 155px;
+}
+.application .rectangle-71-C61RwL {
+  --z-index: 2;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  left: 247px;
+  opacity: 1;
+  position: absolute;
+  top: 475px;
+  width: 469px;
+}
+.application .rectangle-71-aRbOOb {
+  --z-index: 2;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.84% - 159px);
+  top: 44px;
+  width: 469px;
+}
+.application .rectangle-72-aRbOOb {
+  --z-index: 11;
+  background-color: rgba(255,255,255,1.0);
+  height: 283px;
+  left: calc(49.56% - 3px);
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+.application .rectangle-73-JzbdSO {
+  --z-index: 0;
+  background-color: rgba(15,117,188,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.application .rectangle-83-C61RwL {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  height: 1391px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 408px;
+  width: 1920px;
+}
+.application .rectangle-92-aRbOOb {
+  --z-index: 12;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.84% - 159px);
+  top: 44px;
+  width: 469px;
+}
+.application .rectangle-93-C61RwL {
+  --z-index: 3;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  left: 1018px;
+  opacity: 1;
+  position: absolute;
+  top: 475px;
+  width: 273px;
+}
+.application .rectangle-94-C61RwL {
+  --z-index: 10;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 53px;
+  left: 1018px;
+  opacity: 1;
+  position: absolute;
+  top: 601px;
+  width: 655px;
+}
+.application .rectangle-95-C61RwL {
+  --z-index: 11;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 53px;
+  left: 1018px;
+  opacity: 1;
+  position: absolute;
+  top: 712px;
+  width: 655px;
+}
+.application .rectangle-96-C61RwL {
+  --z-index: 12;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 53px;
+  left: 1018px;
+  opacity: 1;
+  position: absolute;
+  top: 823px;
+  width: 655px;
+}
+.application .rectangle-97-C61RwL {
+  --z-index: 13;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 53px;
+  left: 1018px;
+  opacity: 1;
+  position: absolute;
+  top: 934px;
+  width: 655px;
+}
+.application .rectangle-98-C61RwL {
+  --z-index: 17;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 53px;
+  left: 1018px;
+  opacity: 1;
+  position: absolute;
+  top: 1045px;
+  width: 655px;
+}
+.application .rectangle-99-C61RwL {
+  --z-index: 18;
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 53px;
+  left: 1017px;
+  opacity: 1;
+  position: absolute;
+  top: 1106px;
+  width: 657px;
+}
+.application .scs-logo-C9O7gc {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/scs-logo@1x.png);
+  background-size: 100% 100%;
+  height: 118px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+.application .scs-logo-KfN4H3 {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/scs-logo-1@1x.png);
+  background-size: 100% 100%;
+  height: 286px;
+  left: 194px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 398px;
+}
+.application .state-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1346px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1156px;
+  white-space: nowrap;
+  width: 327px;
+}
+.application .website-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 1018px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 878px;
+  white-space: nowrap;
+  width: 658px;
+}
+.application .were-here--and-how-we-aRbOOb {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 153px;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(34.83% - 53px);
+  white-space: nowrap;
+  width: 810px;
+}
+.application .x-madeb-med-s-reserved-lT6iDl {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -1px;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 3px);
+}
+.application .x-steady-ca--solutions-PmszAj {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(46.74% - 12px);
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 214px;
+}
+.application .x7185047439-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 339px;
+  letter-spacing: 0.00px;
+  line-height: 63px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.application .x7185047439-Pxx2HD {
+  --z-index: 16;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  letter-spacing: 0.00px;
+  line-height: 63px;
+  opacity: 1;
+  position: absolute;
+  right: calc(36.01% - 99px);
+  text-align: center;
+  top: calc(31.87% - 21px);
+  white-space: nowrap;
+  width: 276px;
+}
+.application .x7185047439-aRbOOb {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  letter-spacing: 0.00px;
+  line-height: 63px;
+  opacity: 1;
+  position: absolute;
+  right: calc(36.01% - 99px);
+  text-align: center;
+  top: calc(31.87% - 21px);
+  white-space: nowrap;
+  width: 276px;
+}
+/* screen - business-funding */
+
+.business-funding {
+  background-color: transparent;
+  height: 2098px;
+  opacity: 1;
+  position: relative;
+  width: 1920px;
+}
+.business-funding .a-business-are-withdr-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 353px;
+  left: 1163px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 529px;
+  width: 514px;
+}
+.business-funding .about-BKbGut {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 141px;
+}
+.business-funding .about-snjQrn {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.business-funding .about-xx8Aa6 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.business-funding .apply-now-7fAmIR {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.17% - 47px);
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+.business-funding .apply-now-GJws1M {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 8px);
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 62px);
+}
+.business-funding .business-funding-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 215px;
+  letter-spacing: 0.00px;
+  line-height: 94px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 194px;
+  white-space: nowrap;
+  width: auto;
+}
+.business-funding .business-funds-IXCCAC {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 17px);
+}
+.business-funding .business-l--of-credit-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1004px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 464px;
+  white-space: nowrap;
+  width: auto;
+}
+.business-funding .component-2-3-prF1MV {
+  --z-index: 3;
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.33% - 51px);
+  top: 0px;
+  width: 153px;
+}
+.business-funding .component-2-4-prF1MV {
+  --z-index: 4;
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(33.33% - 51px);
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.business-funding .component-2-4-prF1MV:hover {
+
+filter: grayscale(100%);
+}
+.business-funding .component-3-2-prF1MV {
+  --z-index: 5;
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.business-funding .component-3-2-prF1MV:hover {
+
+filter: grayscale(100%);
+}
+.business-funding .component-4-2-prF1MV {
+  --z-index: 2;
+  background-color: transparent;
+  height: 100%;
+  left: calc(33.33% - 51px);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+.business-funding .component-6-2-C61RwL {
+  --z-index: 23;
+  background-color: transparent;
+  height: 53px;
+  left: 850px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 1491px;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+.business-funding .component-6-2-C61RwL:hover {
+
+transform: scale(0.9); 
+}
+.business-funding .contact-information-BKbGut {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.92% - 154px);
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 455px;
+}
+.business-funding .do-you-nee-r-business-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: "Segoe UI", Helvetica, Arial, serif;
+  font-size: 45px;
+  height: auto;
+  left: 540px;
+  letter-spacing: 0.00px;
+  line-height: 58px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1324px;
+  white-space: nowrap;
+  width: auto;
+}
+.business-funding .find-out-h-ualify-for-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 41px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 643px;
+  letter-spacing: 0.00px;
+  line-height: 41px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1418px;
+  white-space: nowrap;
+  width: auto;
+}
+.business-funding .fixed-term-e-your-bus-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 272px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 967px;
+  width: 508px;
+}
+.business-funding .fixed-term-funding-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 254px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 904px;
+  white-space: nowrap;
+  width: auto;
+}
+.business-funding .group-1-Lihjms {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .group-10-BKbGut {
+  --z-index: 7;
+  background-color: transparent;
+  bottom: 0px;
+  height: 118px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.business-funding .group-11-C61RwL {
+  --z-index: 27;
+  background-color: transparent;
+  height: 320px;
+  left: 1px;
+  opacity: 1;
+  position: fixed;
+  top: -24px;
+  width: 1920px;
+}
+.business-funding .group-19-prF1MV {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.business-funding .group-19-prF1MV:hover {
+
+filter: grayscale(100%);
+}
+.business-funding .group-2-diGJ88 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .group-25-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  height: 63px;
+  left: 1793px;
+  opacity: 1;
+  position: absolute;
+  top: 2035px;
+  width: 127px;
+}
+.business-funding .group-27-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  height: 472px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1626px;
+  width: 1920px;
+}
+.business-funding .group-3-Lihjms {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: calc(17.75% - 8px);
+  width: 672px;
+}
+.business-funding .group-4-bAyQtV {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .home-F0cs8N {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 56px;
+}
+.business-funding .home-F0cs8N:hover {
+
+filter: grayscale(100%);
+}
+.business-funding .madeb-media-wide-StUjmZ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/madebmediawide@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 7px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .no-path-copy-11-BKbGut {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--11-@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(47.80% - 30px);
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  width: 62px;
+}
+.business-funding .no-path-copy-2-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--2-@1x.png);
+  background-size: 100% 100%;
+  height: 137px;
+  left: 249px;
+  opacity: 1;
+  position: absolute;
+  top: 529px;
+  width: 136px;
+}
+.business-funding .no-path-copy-2-QxM5SU {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--2-@1x.png);
+  background-size: 100% 100%;
+  height: 137px;
+  left: 999px;
+  opacity: 1;
+  position: absolute;
+  top: 967px;
+  width: 136px;
+}
+.business-funding .no-path-copy-2-VMr6Om {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--2-@1x.png);
+  background-size: 100% 100%;
+  height: 137px;
+  left: 250px;
+  opacity: 1;
+  position: absolute;
+  top: 967px;
+  width: 136px;
+}
+.business-funding .no-path-copy-2-mzXdH9 {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--2-@1x.png);
+  background-size: 100% 100%;
+  height: 137px;
+  left: 998px;
+  opacity: 1;
+  position: absolute;
+  top: 529px;
+  width: 136px;
+}
+.business-funding .no-path-copy-5-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--5-@1x.png);
+  background-size: 100% 100%;
+  height: 412px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.business-funding .no-path-copy-9-BKbGut {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--9-@1x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  top: calc(32.20% - 20px);
+  width: 62px;
+}
+.business-funding .own-land-b-y-is-worth-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 321px;
+  left: 414px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 529px;
+  width: 509px;
+}
+.business-funding .path-1-GJws1M {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .path-3-BKbGut {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-3@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 112px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.business-funding .polygon-1-YySFTL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/polygon-1@1x.png);
+  background-size: 100% 100%;
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+  right: 163px;
+  top: 24px;
+  width: 1026px;
+}
+.business-funding .polygon-2-YySFTL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/polygon-2@1x.png);
+  background-size: 100% 100%;
+  height: 96px;
+  left: 218px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  width: 1026px;
+}
+.business-funding .processing-lutionscom-BKbGut {
+  --z-index: 9;
+  background-color: transparent;
+  bottom: calc(47.65% - 22px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  right: calc(21.38% - 124px);
+  text-align: center;
+  white-space: nowrap;
+  width: 582px;
+}
+.business-funding .rectangle-1-YySFTL {
+  --z-index: 2;
+  background-color: rgba(206,206,206,1.0);
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 24px;
+  width: 676px;
+}
+.business-funding .rectangle-103-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 592px;
+}
+.business-funding .rectangle-2-YySFTL {
+  --z-index: 3;
+  background-color: rgba(255,255,255,1.0);
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  width: 731px;
+}
+.business-funding .rectangle-23-qPu9jF {
+  --z-index: 0;
+  background-color: rgba(0,0,0,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .rectangle-3-prF1MV {
+  --z-index: 0;
+  background-color: rgba(15,117,188,1.0);
+  height: 100%;
+  left: calc(33.33% - 51px);
+  opacity: 0.55;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+.business-funding .rectangle-4-IXCCAC {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .rectangle-5-snjQrn {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .rectangle-5-xx8Aa6 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .rectangle-6-7fAmIR {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .rectangle-70-BKbGut {
+  --z-index: 1;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  left: 131px;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  width: 155px;
+}
+.business-funding .rectangle-71-BKbGut {
+  --z-index: 2;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.84% - 159px);
+  top: 44px;
+  width: 469px;
+}
+.business-funding .rectangle-72-BKbGut {
+  --z-index: 11;
+  background-color: rgba(255,255,255,1.0);
+  height: 283px;
+  left: calc(49.56% - 3px);
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+.business-funding .rectangle-75-F0cs8N {
+  --z-index: 0;
+  background-color: rgba(15,117,188,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.business-funding .rectangle-76-C61RwL {
+  --z-index: 1;
+  background-color: rgba(255,255,255,1.0);
+  height: 1213px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 412px;
+  width: 1920px;
+}
+.business-funding .rectangle-77-C61RwL {
+  --z-index: 10;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 247px;
+  opacity: 1;
+  position: absolute;
+  top: 464px;
+  width: 478px;
+}
+.business-funding .rectangle-78-C61RwL {
+  --z-index: 11;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 247px;
+  opacity: 1;
+  position: absolute;
+  top: 902px;
+  width: 540px;
+}
+.business-funding .rectangle-79-C61RwL {
+  --z-index: 13;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 998px;
+  opacity: 1;
+  position: absolute;
+  top: 462px;
+  width: 629px;
+}
+.business-funding .rectangle-80-C61RwL {
+  --z-index: 12;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 999px;
+  opacity: 1;
+  position: absolute;
+  top: 900px;
+  width: 552px;
+}
+.business-funding .rectangle-81-C61RwL {
+  --z-index: 18;
+  background-color: rgba(15,117,188,1.0);
+  border-radius: 10px;
+  height: 97px;
+  left: 201px;
+  opacity: 0.95;
+  position: absolute;
+  top: 193px;
+  width: 683px;
+}
+.business-funding .rectangle-82-C61RwL {
+  --z-index: 20;
+  background-color: rgba(15,117,188,1.0);
+  border-radius: 10px;
+  height: 96px;
+  left: 528px;
+  opacity: 0.95;
+  position: absolute;
+  top: 1304px;
+  width: 865px;
+}
+.business-funding .scs-logo-YySFTL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/scs-logo@1x.png);
+  background-size: 100% 100%;
+  height: 118px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+.business-funding .scs-logo-oRVdW8 {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/scs-logo-1@1x.png);
+  background-size: 100% 100%;
+  height: 286px;
+  left: 194px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 398px;
+}
+.business-funding .secured-funding-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 254px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 466px;
+  white-space: nowrap;
+  width: auto;
+}
+.business-funding .span0-M6fMpO {
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.business-funding .span1-M6fMpO {
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 400;
+}
+.business-funding .unsecured--nsecured-f-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 218px;
+  left: 1164px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 967px;
+  width: 510px;
+}
+.business-funding .unsecured-funding-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1005px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 902px;
+  white-space: nowrap;
+  width: auto;
+}
+.business-funding .were-here--and-how-we-BKbGut {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 153px;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(35.27% - 54px);
+  white-space: nowrap;
+  width: 810px;
+}
+.business-funding .x-madeb-med-s-reserved-StUjmZ {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -1px;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 3px);
+}
+.business-funding .x-steady-ca--solutions-qPu9jF {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(46.74% - 12px);
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 214px;
+}
+.business-funding .x7185047439-BKbGut {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  letter-spacing: 0.00px;
+  line-height: 63px;
+  opacity: 1;
+  position: absolute;
+  right: calc(36.01% - 99px);
+  text-align: center;
+  top: calc(32.19% - 21px);
+  white-space: nowrap;
+  width: 276px;
+}
+/* screen - who-we-are */
+
+.who-we-are {
+  background-color: transparent;
+  height: 2200px;
+  opacity: 1;
+  position: relative;
+  width: 1920px;
+}
+.who-we-are .about-3qxWBz {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.who-we-are .about-NqntEy {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.who-we-are .about-VdQhAS {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 141px;
+}
+.who-we-are .about-us-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: 94px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  white-space: nowrap;
+  width: auto;
+}
+.who-we-are .apply-now-8737xL {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 8px);
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 62px);
+}
+.who-we-are .apply-now-dLduz8 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.17% - 47px);
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+.who-we-are .business-funds-Gh8FxP {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(16.67% - 5px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 17px);
+}
+.who-we-are .component-2-7-H5WvIT {
+  --z-index: 3;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  opacity: 1;
+  position: absolute;
+  right: calc(33.33% - 51px);
+  top: 0px;
+  width: 153px;
+}
+.who-we-are .component-2-8-H5WvIT {
+  --z-index: 4;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  opacity: 1;
+  position: absolute;
+  right: calc(33.33% - 51px);
+  top: 0px;
+  width: 153px;
+}
+.who-we-are .component-3-4-H5WvIT {
+  --z-index: 5;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.who-we-are .component-3-4-H5WvIT:hover {
+
+filter: grayscale(100%);
+}
+.who-we-are .component-4-4-H5WvIT {
+  --z-index: 2;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: calc(33.33% - 51px);
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.who-we-are .component-4-4-H5WvIT:hover {
+
+filter: grayscale(100%);
+}
+.who-we-are .component-6-3-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 53px;
+  left: 850px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 1624px;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+.who-we-are .component-6-3-C61RwL:hover {
+
+transform: scale(0.9); 
+}
+.who-we-are .contact-information-VdQhAS {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.92% - 154px);
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 455px;
+}
+.who-we-are .do-you-nee-r-business-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: "Segoe UI", Helvetica, Arial, serif;
+  font-size: 45px;
+  height: 67px;
+  left: 539px;
+  letter-spacing: 0.00px;
+  line-height: 58px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1448px;
+  white-space: nowrap;
+  width: 844px;
+}
+.who-we-are .find-out-h-ualify-for-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 41px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 643px;
+  letter-spacing: 0.00px;
+  line-height: 41px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1550px;
+  white-space: nowrap;
+  width: auto;
+}
+.who-we-are .group-1-WlKmYQ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .group-10-VdQhAS {
+  --z-index: 7;
+  background-color: transparent;
+  bottom: 0px;
+  height: 118px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.who-we-are .group-13-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: -24px;
+  width: 1920px;
+}
+.who-we-are .group-18-H5WvIT {
+  --z-index: 1;
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+.who-we-are .group-18-H5WvIT:hover {
+
+filter: grayscale(100%);
+}
+.who-we-are .group-2-QbDSlb {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .group-22-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 472px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1728px;
+  width: 1920px;
+}
+.who-we-are .group-25-PY8a2g {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 0px;
+  height: 63px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  width: 127px;
+}
+.who-we-are .group-3-WlKmYQ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 45px;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: calc(17.82% - 8px);
+  width: 672px;
+}
+.who-we-are .group-4-WQXeF1 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .home-xnxmle {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(23.33% - 7px);
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.45% - 27px);
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 56px;
+}
+.who-we-are .home-xnxmle:hover {
+
+filter: grayscale(100%);
+}
+.who-we-are .lots-of-fi-ng-options-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1062px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 974px;
+  white-space: nowrap;
+  width: auto;
+}
+.who-we-are .madeb-media-wide-xxCSxH {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/madebmediawide@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 7px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .no-path-copy-11-VdQhAS {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--11-@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(47.80% - 30px);
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  width: 62px;
+}
+.who-we-are .no-path-copy-12-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--12-@1x.png);
+  background-size: 100% 100%;
+  height: 615px;
+  left: 1017px;
+  opacity: 1;
+  position: absolute;
+  top: 366px;
+  width: 787px;
+}
+.who-we-are .no-path-copy-5-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--5-@1x.png);
+  background-size: 100% 100%;
+  height: 412px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 1920px;
+}
+.who-we-are .no-path-copy-9-VdQhAS {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/nopath---copy--9-@1x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.52% - 29px);
+  top: calc(32.20% - 20px);
+  width: 62px;
+}
+.who-we-are .path-1-8737xL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .path-3-VdQhAS {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-3@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 112px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.who-we-are .polygon-1-Xk42ig {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/polygon-1@1x.png);
+  background-size: 100% 100%;
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+  right: 163px;
+  top: 24px;
+  width: 1026px;
+}
+.who-we-are .polygon-2-Xk42ig {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/polygon-2@1x.png);
+  background-size: 100% 100%;
+  height: 96px;
+  left: 218px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  width: 1026px;
+}
+.who-we-are .processing-lutionscom-VdQhAS {
+  --z-index: 9;
+  background-color: transparent;
+  bottom: calc(47.65% - 22px);
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  right: calc(21.38% - 124px);
+  text-align: center;
+  white-space: nowrap;
+  width: 582px;
+}
+.who-we-are .rectangle-1-Xk42ig {
+  --z-index: 2;
+  background-color: rgba(206,206,206,1.0);
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 24px;
+  width: 676px;
+}
+.who-we-are .rectangle-103-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 592px;
+}
+.who-we-are .rectangle-2-Xk42ig {
+  --z-index: 3;
+  background-color: rgba(255,255,255,1.0);
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  width: 731px;
+}
+.who-we-are .rectangle-23-PY8a2g {
+  --z-index: 0;
+  background-color: rgba(0,0,0,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .rectangle-3-H5WvIT {
+  --z-index: 0;
+  background-color: rgba(15,117,188,1.0);
+  height: calc(100.00% - 1px);
+  opacity: 0.55;
+  position: absolute;
+  right: calc(33.33% - 51px);
+  top: 1px;
+  width: 153px;
+}
+.who-we-are .rectangle-4-Gh8FxP {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .rectangle-5-3qxWBz {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .rectangle-5-NqntEy {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .rectangle-6-dLduz8 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .rectangle-70-VdQhAS {
+  --z-index: 1;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  left: 131px;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  width: 155px;
+}
+.who-we-are .rectangle-71-VdQhAS {
+  --z-index: 2;
+  background-color: rgba(15,117,188,1.0);
+  height: 68px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.84% - 159px);
+  top: 44px;
+  width: 469px;
+}
+.who-we-are .rectangle-72-VdQhAS {
+  --z-index: 11;
+  background-color: rgba(255,255,255,1.0);
+  height: 283px;
+  left: calc(49.56% - 3px);
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+.who-we-are .rectangle-74-xnxmle {
+  --z-index: 0;
+  background-color: rgba(15,117,188,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.who-we-are .rectangle-84-C61RwL {
+  --z-index: 11;
+  background-color: rgba(206,206,206,1.0);
+  height: 482px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 903px;
+  width: 1920px;
+}
+.who-we-are .rectangle-85-C61RwL {
+  --z-index: 2;
+  background-color: rgba(255,255,255,1.0);
+  height: 343px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1385px;
+  width: 1920px;
+}
+.who-we-are .rectangle-86-C61RwL {
+  --z-index: 3;
+  background-color: rgba(15,117,188,1.0);
+  border-radius: 10px;
+  height: 96px;
+  left: 528px;
+  opacity: 0.95;
+  position: absolute;
+  top: 1437px;
+  width: 865px;
+}
+.who-we-are .rectangle-87-C61RwL {
+  --z-index: 7;
+  background-color: rgba(15,117,188,1.0);
+  border-radius: 10px;
+  height: 97px;
+  left: 151px;
+  opacity: 0.95;
+  position: absolute;
+  top: 199px;
+  width: 369px;
+}
+.who-we-are .rectangle-88-C61RwL {
+  --z-index: 10;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 327px;
+  opacity: 1;
+  position: absolute;
+  top: 458px;
+  width: 341px;
+}
+.who-we-are .rectangle-90-C61RwL {
+  --z-index: 12;
+  background-color: rgba(15,117,188,1.0);
+  height: 61px;
+  left: 1056px;
+  opacity: 1;
+  position: absolute;
+  top: 970px;
+  width: 733px;
+}
+.who-we-are .rectangle-91-C61RwL {
+  --z-index: 9;
+  background-color: rgba(255,255,255,1.0);
+  height: 489px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 414px;
+  width: 1920px;
+}
+.who-we-are .scs-logo-Oxz6ex {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/scs-logo-1@1x.png);
+  background-size: 100% 100%;
+  height: 286px;
+  left: 194px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 398px;
+}
+.who-we-are .scs-logo-Xk42ig {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/scs-logo@1x.png);
+  background-size: 100% 100%;
+  height: 118px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+.who-we-are .shpenzimet1-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/shpenzimet1@1x.png);
+  background-size: 100% 100%;
+  height: 615px;
+  left: 138px;
+  opacity: 1;
+  position: absolute;
+  top: 837px;
+  width: 787px;
+}
+.who-we-are .span0-M6fMpO {
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.who-we-are .span1-M6fMpO {
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 400;
+}
+.who-we-are .we-work-wi-you-can-re-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 275px;
+  left: 1127px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1048px;
+  width: 593px;
+}
+.who-we-are .were-here--and-how-we-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  color: rgba(15,117,188,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 275px;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 536px;
+  width: 593px;
+}
+.who-we-are .were-here--and-how-we-VdQhAS {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 153px;
+  left: 131px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(35.27% - 54px);
+  white-space: nowrap;
+  width: 810px;
+}
+.who-we-are .who-we-are-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 335px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 460px;
+  white-space: nowrap;
+  width: auto;
+}
+.who-we-are .x-madeb-med-s-reserved-xxCSxH {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -1px;
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 3px);
+}
+.who-we-are .x-steady-ca--solutions-PY8a2g {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(46.74% - 12px);
+  color: rgba(206,206,206,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 26px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 214px;
+}
+.who-we-are .x7185047439-VdQhAS {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 400;
+  height: 65px;
+  letter-spacing: 0.00px;
+  line-height: 63px;
+  opacity: 1;
+  position: absolute;
+  right: calc(36.01% - 99px);
+  text-align: center;
+  top: calc(32.19% - 21px);
+  white-space: nowrap;
+  width: 276px;
+}
